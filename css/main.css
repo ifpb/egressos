@@ -15,9 +15,21 @@ h1 {
 
 .egressos {
   display: grid;
-  grid-template-columns: repeat(3, 300px);
+  grid-template-columns: 300px;
   grid-gap: 2rem;
   justify-content: center;
+}
+
+@media (min-width: 610px) {
+  .egressos {
+    grid-template-columns: repeat(2, 300px);
+  }
+}
+
+@media (min-width: 910px) {
+  .egressos {
+    grid-template-columns: repeat(3, 300px);
+  }
 }
 
 .egresso {
