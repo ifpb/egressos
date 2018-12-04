@@ -458,10 +458,8 @@
   },
   {
     "id": 20131370442,
-    "nomeSimples": "Victor Pereira",
+    "nomeSimples": "João Victor Santos",
     "nome": "João Victor Pereira dos Santos",
-    "email": "victordualib@gmail.com",
-    "avatar": "20131370442.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true,
@@ -797,9 +795,13 @@
   },
   {
     "id": 20091370129,
-    "nomeSimples": "Otacílio Ferreira",
+    "nomeSimples": "Otacílio Vicente",
     "nome": "Otacílio Vicente Ferreira Neto",
+    "email": "otacilioferreiro@gmail.com",
     "linkedin": "https://www.linkedin.com/in/otacferreiro/",
+    "instagram": "https://www.instagram.com/otacneto/",
+    "github": "https://github.com/OtacFerreiro/",
+    "twitter": "https://twitter.com/OtacilioVF/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
