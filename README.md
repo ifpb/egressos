@@ -14,6 +14,7 @@ O primeiro passo seria declarar seus dados seria editar o arquivo `data/egressos
     "avatar": "20051370420.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
+    "egresso": true,
     "linkedin": "https://www.linkedin.com/in/luizcrchaves/",
     "github": "https://github.com/lucachaves",
     "facebook": "https://www.facebook.com/luizcrchaves",
@@ -25,7 +26,7 @@ O primeiro passo seria declarar seus dados seria editar o arquivo `data/egressos
 ]
 ```
 
-Detalhe, vamos padronizar o `id` como sendo a sua matrícula do curso, e seria muito interessante que você declarasse os campos `nomeSimples`, `nome`, `email`, `avatar`, `curso`, `campus` e principalmente o seu `linkedin`.
+Detalhe, vamos padronizar o `id` como sendo a sua matrícula do curso, e seria muito interessante que você declarasse os campos `nomeSimples`, `nome`, `email`, `avatar`, `curso`, `campus` e principalmente o seu `linkedin`. O campo `egresso` também deve ser informado com o valor `true` caso você não possua nenhuma pendência e já tenha recebido, ou está para receber, o diploma.
 
 Já a imagem avatar deve ser colocada na pasta `img/egressos/`, preferencialmente seguindo o formato `numero_da_matricula.jpg` e com o tamanho de 300x300.
 

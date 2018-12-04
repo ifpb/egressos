@@ -5,8 +5,8 @@ fetch('data/egressos.json')
 function exibeEgressos(egressos) {
   const egressosContainer = document.querySelector(".egressos")
   const view = egressos
-    .filter(e => e.hasOwnProperty("linkedin"))
-    .sort((a, b) => a.nome.localeCompare(b.nome))
+    .filter(e => e.hasOwnProperty("linkedin") && e.hasOwnProperty("egresso"))
+    .sort((a, b) => a.nomeSimples.localeCompare(b.nomeSimples))
     .map(e => mountCard(e))
     .join('')
     

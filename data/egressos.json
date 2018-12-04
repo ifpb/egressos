@@ -6,7 +6,8 @@
     "email": "alexmbezerrajp@gmail.com",
     "linkedin": "https://www.linkedin.com/in/alex-martins-2b480023/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20121370474,
@@ -15,7 +16,8 @@
     "email": "dias.jbr@gmail.com",
     "linkedin": "https://www.linkedin.com/in/alexandre-dias-833a306a/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20151370154,
@@ -23,14 +25,16 @@
     "nome": "Aluisio Lins Fitipaldi",
     "email": "alfit@oi.com.br",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20102370022,
     "nomeSimples": "Amanda Silva",
     "nome": "Amanda Alves Almeida da Silva",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20111370536,
@@ -39,7 +43,8 @@
     "email": "amandalops00@gmail.com",
     "linkedin": "https://www.linkedin.com/in/mandalps/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20102370030,
@@ -48,7 +53,8 @@
     "email": "apvalefin@gmail.com",
     "linkedin": "https://www.linkedin.com/in/anapaulavale/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20132370403,
@@ -57,7 +63,8 @@
     "email": "anderson.araujo.g@gmail.com",
     "linkedin": "https://www.linkedin.com/in/anderson-arg/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20131370094,
@@ -66,7 +73,8 @@
     "email": "andersonofl@gmail.com",
     "linkedin": "https://www.linkedin.com/in/anderson-leal-295595a8/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20132370284,
@@ -75,7 +83,8 @@
     "email": "andrealencar@outlook.com.br",
     "linkedin": "https://www.linkedin.com/in/andreealencar/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20131370078,
@@ -84,14 +93,16 @@
     "email": "jrpalitot@gmail.com",
     "linkedin": "https://www.linkedin.com/in/antônio-palitot-2470b8149/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20121370172,
     "nomeSimples": "Arthur Carvalho",
     "nome": "Arthur Emanuel Brandão Carvalho",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20082370308,
@@ -100,7 +111,8 @@
     "email": "arthurvluckwu@gmail.com",
     "linkedin": "https://www.linkedin.com/in/arthur-luckwu/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20131370248,
@@ -109,7 +121,8 @@
     "email": "artur_benicio@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/arturaraujob/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20101370037,
@@ -118,7 +131,8 @@
     "email": "ayrton.nadgel@gmail.com",
     "linkedin": "https://www.linkedin.com/in/ayrton-nadgel-6b420487/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20092370238,
@@ -127,7 +141,8 @@
     "email": "bruno.ifpb@gmail.com",
     "linkedin": "https://www.linkedin.com/in/bragabruno/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20111370307,
@@ -136,7 +151,8 @@
     "email": "brunojppb@gmail.com",
     "linkedin": "https://www.linkedin.com/in/brunojppb/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20101370053,
@@ -145,7 +161,8 @@
     "email": "bruno.not@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/brunolncosta/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20121370270,
@@ -153,7 +170,8 @@
     "nome": "Claucio De Oliveira Sousa",
     "linkedin": "https://www.linkedin.com/in/clauciosousa/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20091370374,
@@ -162,7 +180,8 @@
     "email": "dangellyscavalcanti@gmail.com",
     "linkedin": "https://www.linkedin.com/in/dangellys-cavalcanti/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20102370081,
@@ -171,7 +190,8 @@
     "email": "afilhodaniel@gmail.com",
     "linkedin": "https://www.linkedin.com/in/afilhodaniel/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20111370439,
@@ -180,7 +200,8 @@
     "email": "daniela.pdj@gmail.com",
     "linkedin": "https://www.linkedin.com/in/dlpitta/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20112370394,
@@ -189,7 +210,8 @@
     "email": "davidedsoon@gmail.com ",
     "linkedin": "https://www.linkedin.com/in/davidveloso/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20102370090,
@@ -197,7 +219,8 @@
     "nome": "Denilson Henrique Dantas",
     "email": "denilsontakezo@hotmail.com",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20091370331,
@@ -206,7 +229,8 @@
     "email": "didierpg@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/didier-ferreira-3a1168161/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20061370112,
@@ -215,7 +239,8 @@
     "email": "diegopessoa12@gmail.com",
     "linkedin": "http://linkedin.com/in/diego-pessoa-6a137b28/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20051370322,
@@ -225,7 +250,8 @@
     "avatar": "20051370322.jpg",
     "linkedin": "https://www.linkedin.com/in/di%C3%A9nert-vieira-6961b616/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20081370312,
@@ -235,7 +261,8 @@
     "avatar": "20081370312.jpg",
     "linkedin": "https://www.linkedin.com/in/diofeher/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20072370437,
@@ -243,7 +270,8 @@
     "nome": "Diógenes Calado da Silva",
     "email": "diogenes_c1@hotmail.com",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20112370319,
@@ -252,7 +280,8 @@
     "email": "douglastorr@gmail.com",
     "linkedin": "https://www.linkedin.com/in/dougtorres/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20112370238,
@@ -260,7 +289,8 @@
     "nome": "Eder Pires Batista",
     "linkedin": "https://www.linkedin.com/in/eder-pires-a46b867b/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20131370043,
@@ -268,7 +298,8 @@
     "nome": "Elias Felipe da Rocha",
     "linkedin": "https://www.linkedin.com/in/elias-rocha-4b2a6733/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20102370111,
@@ -277,7 +308,8 @@
     "email": "emersonraniere@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/emersonraniere/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20102370120,
@@ -286,7 +318,8 @@
     "email": "egdn2004@gmail.com",
     "linkedin": "https://www.linkedin.com/in/érycson-nóbrega-ba5734103/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20121370415,
@@ -300,7 +333,8 @@
     "github": "https://github.com/evandromacedo",
     "facebook": "https://facebook.com/macedoevandro",
     "twitter": "https://twitter.com/evandromacedo_",
-    "instagram": "https://www.instagram.com/evan.macedo"
+    "instagram": "https://www.instagram.com/evan.macedo",
+    "egresso": true
   },
   {
     "id": 20131370124,
@@ -309,14 +343,16 @@
     "email": "fellipe91 @gmail.com",
     "linkedin": "https://www.linkedin.com/in/fellipe-freire-31295050/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20122370435,
     "nomeSimples": "Geferson Dias",
     "nome": "Geferson Ribeiro Dias",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20102370154,
@@ -324,7 +360,8 @@
     "nome": "Gleidson de Sousa Ribeiro",
     "linkedin": "https://www.linkedin.com/in/gleidson-ribeiro-247586105/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20121370547,
@@ -335,7 +372,8 @@
     "linkedin": "https://www.linkedin.com/in/gleydsontavares/",
     "github": "https://github.com/g13ydson",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20071370549,
@@ -343,7 +381,8 @@
     "nome": "Henrique Antunes Barreto de Almeida",
     "linkedin": "https://www.linkedin.com/in/henrique-barreto-7707922b/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20091370056,
@@ -351,7 +390,8 @@
     "nome": "Henrique de Paiva Araújo Pontes",
     "email": "henrique_pontes@hotmail.com",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20062370221,
@@ -360,7 +400,8 @@
     "email": "higor_zupo@yahoo.com.br",
     "linkedin": "https://www.linkedin.com/in/higordelgado/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20092370165,
@@ -369,7 +410,8 @@
     "email": "idjinne@gmail.com",
     "linkedin": "https://www.linkedin.com/in/idjinne-ribeiro-86160333/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20062370116,
@@ -377,7 +419,8 @@
     "nome": "Isaac de Morais Marinho dos Santos",
     "email": "isaacmarinho@gmail.com",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20121370180,
@@ -386,7 +429,8 @@
     "email": "dhelly@gmail.com",
     "linkedin": "https://www.linkedin.com/in/jaqueline-fernandes-38855836/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20082370286,
@@ -394,7 +438,8 @@
     "nome": "Jimmy Wilson Oliveira Alves da Silva",
     "linkedin": "https://www.linkedin.com/in/jimmywilson1991/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20131370060,
@@ -403,7 +448,8 @@
     "linkedin":
      "https://www.linkedin.com/in/joão-paulo-da-silva-leite-522816107/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20141370526,
@@ -412,16 +458,16 @@
     "email": "paulinhosocrates@gmail.com",
     "linkedin": "https://www.linkedin.com/in/joão-paulo-marques-a0154ab3/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20131370442,
-    "nomeSimples": "Victor Pereira",
+    "nomeSimples": "João Victor Santos",
     "nome": "João Victor Pereira dos Santos",
-    "email": "victordualib@gmail.com",
-    "avatar": "20131370442.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
+    "egresso": true,
     "linkedin": "https://www.linkedin.com/in/victorbzk/",
     "instagram": "https://www.instagram.com/viktorbzk"
   },
@@ -432,7 +478,8 @@
     "email": "joerverson.santos@gmail.com",
     "linkedin": "https://www.linkedin.com/in/joerverson-santos-6369aa134/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20142370040,
@@ -441,7 +488,8 @@
     "email": "joffilyferreira@gmail.com",
     "linkedin": "https://www.linkedin.com/in/joffily/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20092370211,
@@ -450,7 +498,8 @@
     "email": "jonatas.cmelo@gmail.com",
     "linkedin": "https://www.linkedin.com/in/jonatascmelo/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20122370052,
@@ -459,7 +508,8 @@
     "email": "jonathasarts@gmail.com",
     "linkedin": "https://www.linkedin.com/in/jonathasarts/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20112370416,
@@ -468,14 +518,16 @@
     "email": "d.erich@hotmail.com ",
     "linkedin": "https://www.linkedin.com/in/carlos-derich-97122877/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20082370065,
     "nomeSimples": "José Neto",
     "nome": "José de Meira Fernandes Neto",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20122370427,
@@ -484,7 +536,8 @@
     "email": "jozias.rolim@dce.ufpb.br",
     "linkedin": "https://www.linkedin.com/in/joziasrolim/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20101370282,
@@ -493,7 +546,8 @@
     "linkedin":
      "https://www.linkedin.com/in/julio-césar-da-silva-gomes-594a80107/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20102370235,
@@ -501,7 +555,8 @@
     "nome": "Julio Martins Filho",
     "linkedin": "https://www.linkedin.com/in/wmjulio/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20112370386,
@@ -511,6 +566,7 @@
     "avatar": "20112370386.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
+    "egresso": true,
     "linkedin": "https://www.linkedin.com/in/laércio-bezerra-1a555849/",
     "github": "https://github.com/laerciosb",
     "facebook": "https://www.facebook.com/laerciosbezerra",
@@ -524,7 +580,8 @@
     "email": "schulzelucas1@gmail.com",
     "linkedin": "https://www.linkedin.com/in/lucas-schulze-9142b57b/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20051370420,
@@ -534,6 +591,7 @@
     "avatar": "20051370420.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
+    "egresso": true,
     "linkedin": "https://www.linkedin.com/in/luizcrchaves/",
     "github": "https://github.com/lucachaves",
     "facebook": "https://www.facebook.com/luizcrchaves",
@@ -550,7 +608,8 @@
     "linkedin":
      "https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 201312010134,
@@ -572,7 +631,8 @@
     "email": "manuu.bla@gmail.com ",
     "linkedin": "https://www.linkedin.com/in/manuela-andrade-83313a102/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20101370320,
@@ -581,14 +641,16 @@
     "email": "marcello_jr1@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/marcelo-jr-9698874a/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20112370580,
     "nomeSimples": "Marcos Antonio Pereira",
     "nome": "Marcos Antonio Porciuncula Pereira",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20142370309,
@@ -597,7 +659,8 @@
     "email": "santiagocida1@gmail.com",
     "linkedin": "https://www.linkedin.com/in/aparecida-santiago-9911a8124/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20142370201,
@@ -606,7 +669,8 @@
     "email": "marianna1204@gmail.com",
     "linkedin": "https://www.linkedin.com/in/mariannave/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20092370262,
@@ -614,7 +678,8 @@
     "nome": "Mateus Barreto Nóbrega de Lucena",
     "email": "mateusbnl@hotmail.com",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20141370461,
@@ -622,7 +687,8 @@
     "nome": "Matheus Mayer Duarte de Figueirêdo",
     "linkedin": "https://www.linkedin.com/in/matheus-mayer/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20102370286,
@@ -632,7 +698,8 @@
     "linkedin":
      "https://www.linkedin.com/in/matheus-ulysses-dantas-rangel-2778114a/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20151370049,
@@ -641,9 +708,25 @@
     "linkedin": "https://www.linkedin.com/in/mauriciodelira/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
+    "egresso": true,
     "facebook": "https://www.facebook.com/deliramauricio",
     "lattes": "http://lattes.cnpq.br/3721070388802203",
     "instagram": "https://www.instagram.com/mauriciodlira/"
+  },
+  {
+    "id": 20071370379,
+    "nomeSimples": "Michel Risucci",
+    "nome": "Michel Alessandro Brasil Risucci de França",
+    "email": "michelrisucci@gmail.com",
+    "avatar": "20071370379.jpg",
+    "linkedin": "https://www.linkedin.com/in/michelrisucci",
+    "github": "https://github.com/michelrisucci",
+    "facebook": "https://www.facebook.com/michelrisucci",
+    "twitter": "https://twitter.com/michelrisucci",
+    "instagram": "https://www.instagram.com/michelrisucci",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20051370144,
@@ -653,7 +736,8 @@
     "avatar": "20051370144.jpg",
     "linkedin": "https://www.linkedin.com/in/moisesguimaraes/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20122370257,
@@ -661,7 +745,8 @@
     "nome": "Natacha Targino R. Simões Brasileiro",
     "email": "targino.natacha@gmail.com ",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20092370114,
@@ -670,7 +755,8 @@
     "email": "natanbrasileiro@gmail.com",
     "linkedin": "https://www.linkedin.com/in/natan-andrade-0b81272b/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20081370045,
@@ -679,7 +765,8 @@
     "email": "nattanlucena@msn.com",
     "linkedin": "https://www.linkedin.com/in/nattan-lucena/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20111370269,
@@ -687,7 +774,8 @@
     "nome": "Nelson Henrique Dantas Fernandes",
     "linkedin": "https://www.linkedin.com/in/nersoh/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20061370333,
@@ -696,7 +784,8 @@
     "email": "neyandrade88@gmail.com",
     "linkedin": "https://www.linkedin.com/in/ney-andrade-157581155/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20052370210,
@@ -706,22 +795,29 @@
     "avatar": "20052370210.jpg",
     "linkedin": "https://www.linkedin.com/in/nielsonrolim/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20091370129,
-    "nomeSimples": "Otacílio Ferreira",
+    "nomeSimples": "Otacílio Vicente",
     "nome": "Otacílio Vicente Ferreira Neto",
+    "email": "otacilioferreiro@gmail.com",
     "linkedin": "https://www.linkedin.com/in/otacferreiro/",
+    "instagram": "https://www.instagram.com/otacneto/",
+    "github": "https://github.com/OtacFerreiro/",
+    "twitter": "https://twitter.com/OtacilioVF/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20071370395,
     "nomeSimples": "Pablo Cunha",
     "nome": "Pablo Cunha Dantas",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20111370021,
@@ -729,7 +825,8 @@
     "nome": "Paulo Virgilio Gomes Linhares Neto",
     "linkedin": "https://www.linkedin.com/in/paulitolinhares/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20141370372,
@@ -738,7 +835,8 @@
     "email": "pedrovsp109@gmail.com",
     "linkedin": "https://www.linkedin.com/in/pedro-paiva-57157814a/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20101370380,
@@ -747,7 +845,8 @@
     "email": "rafa.felype@gmail.com",
     "linkedin": "https://www.linkedin.com/in/rafaelfpfigueiredo/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20141370402,
@@ -756,7 +855,8 @@
     "email": "rafaelmedeirospb@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/rafael-medeiros-aa9b97133/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20102370308,
@@ -765,7 +865,8 @@
     "email": "rafael_navarr0@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/rafael-navarro-717285147/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20082370340,
@@ -775,7 +876,8 @@
     "avatar": "20082370340.jpg",
     "linkedin": "https://www.linkedin.com/in/ramonpfsousa/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20091370137,
@@ -783,7 +885,8 @@
     "nome": "Renan Marques Gadelha Rodrigues",
     "email": "renangadelha@yahoo.com.br",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20071370247,
@@ -791,7 +894,8 @@
     "nome": "Renato Neves Ribeiro",
     "email": "potonho@gmail.com",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20122370397,
@@ -800,7 +904,8 @@
     "email": "samyralara@outlook.com",
     "linkedin": "https://www.linkedin.com/in/samyra-lara-almeida/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20081370509,
@@ -808,7 +913,8 @@
     "nome": "Saulo Ranieri de Oliveira",
     "email": "sauloroliveira@gmail.com",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20141370500,
@@ -817,7 +923,8 @@
     "email": "sedarky@gmail.com",
     "linkedin": "https://www.linkedin.com/in/sergio-campos-5355776a/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20072370739,
@@ -826,7 +933,8 @@
     "email": "talia.almeida85@gmail.com",
     "linkedin": "https://www.linkedin.com/in/taliatrigueiro/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20101370401,
@@ -835,7 +943,8 @@
     "email": "tnmcorreia@gmail.com",
     "linkedin": "https://www.linkedin.com/in/thaiscorreia/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20062370167,
@@ -844,7 +953,8 @@
     "email": "thales.gadioli@gmail.com",
     "linkedin": "https://www.linkedin.com/in/thales-gadioli-7960b217/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20121370555,
@@ -854,6 +964,7 @@
     "avatar": "20121370555.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
+    "egresso": true,
     "linkedin": "https://www.linkedin.com/in/fcmthiago/",
     "github": "https://github.com/fcmthiago",
     "facebook": "https://www.facebook.com/FCM.Thiago",
@@ -868,7 +979,8 @@
     "email": "thiagotigaz@gmail.com ",
     "linkedin": "https://www.linkedin.com/in/thiagotigaz/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20112370041,
@@ -877,7 +989,8 @@
     "email": "tiagocesariob@gmail.com",
     "linkedin": "https://www.linkedin.com/in/tiago-cesario-1a315162/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20111370420,
@@ -886,7 +999,8 @@
     "email": "victoraweb@gmail.com",
     "linkedin": "https://www.linkedin.com/in/augustovictor/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20151370197,
@@ -895,7 +1009,8 @@
     "email": "menuseu@gmail.com",
     "linkedin": "https://www.linkedin.com/in/walter-guedes-89637750/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20102370391,
@@ -903,7 +1018,8 @@
     "nome": "Wandesson da Silva Soares",
     "linkedin": "https://www.linkedin.com/in/wandesson-soares-79808a6b/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20141370429,
@@ -912,7 +1028,8 @@
     "email": "washingtonbruno@msn.com",
     "linkedin": "https://www.linkedin.com/in/washington-bruno-47009377/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20131370159,
@@ -921,7 +1038,8 @@
     "email": "wender.mrn@gmail.com",
     "linkedin": "https://www.linkedin.com/in/wender-mrn/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20091370153,
@@ -935,8 +1053,9 @@
     "twitter": "https://twitter.com/rogersdk_",
     "instagram": "https://www.instagram.com/rogeriocesardanobrega/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
-  },
+    "campus": "ifpb-jp",
+    "egresso": true
+  }, 
   {
     "id": 20061370325,
     "nomeSimples": "Marcus Antonius",
@@ -949,6 +1068,7 @@
     "twitter": "https://twitter.com/marcusantonius",
     "instagram": "https://www.instagram.com/marcusantoniusvfq/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "egresso": true
   }
 ]
