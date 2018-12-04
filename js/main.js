@@ -9,7 +9,7 @@ function exibeEgressos(egressos) {
     .sort((a, b) => a.nome.localeCompare(b.nome))
     .map(e => `<div class="egresso"">
       <figure>
-        <img src="../img/egressos/${e.hasOwnProperty("avatar") ? e.avatar : 'placeholder.jpg'}" alt="${e.nomeSimples}">
+        <img src="img/egressos/${e.hasOwnProperty("avatar") ? e.avatar : 'placeholder.jpg'}" alt="${e.nomeSimples}">
       </figure>
       <a href="${e.linkedin}" target="_blank" class="info">
         <h2>${e.nomeSimples}</h2>

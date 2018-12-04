@@ -6,7 +6,6 @@ O primeiro passo seria declarar seus dados no arquivo `data/egressos.json` segui
 
 ```json
 [
-  ...
   {
     "id": 20051370420,
     "nomeSimples": "Luiz Carlos Chaves",
@@ -17,7 +16,6 @@ O primeiro passo seria declarar seus dados no arquivo `data/egressos.json` segui
     "curso": "cstsi",
     "campus": "campus-jp"
   }
-  ...
 ]
 ```
 
