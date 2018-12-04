@@ -526,6 +526,19 @@
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
+  { 
+    "id": 201312010134,
+    "nomeSimples": "Manoel Dijalma",
+    "nome": "Manoel Dijalma da Silva Filho",
+    "email": "dijalmacz@gmail.com",
+    "avatar": "201312010134.jpg",
+    "curso": "ads",
+    "campus": "ifpb-cz",
+    "linkedin": "https://www.linkedin.com/in/dijalmaf/",
+    "github": "https://github.com/dijalmasilva",
+    "facebook": "https://www.facebook.com/dijalmaf",
+    "instagram": "https://www.instagram.com/dijalmass_"
+  },
   {
     "id": 20102370260,
     "nomeSimples": "Manuela Andrade",
