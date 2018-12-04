@@ -854,5 +854,19 @@
     "linkedin": "https://www.linkedin.com/in/wender-mrn/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
+  },
+  {
+    "id": 20091370153,
+    "nomeSimples": "Rogerio Nobrega",
+    "nome": "Rogerio Cesar da Nobrega",
+    "email": "rogeriocnobrega@gmail.com",
+    "avatar": "20091370153.jpg",
+    "linkedin": "https://www.linkedin.com/in/rogeriocnobrega/",
+    "github": "https://github.com/rogersdk",
+    "facebook": "https://www.facebook.com/rogeriocesar.danobrega",
+    "twitter": "https://twitter.com/rogersdk_",
+    "instagram": "https://www.instagram.com/rogeriocesardanobrega/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp"
   }
 ]
