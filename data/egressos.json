@@ -411,14 +411,10 @@
   },
   {
     "id": 20131370442,
-    "nomeSimples": "Victor Pereira",
+    "nomeSimples": "João Victor Santos",
     "nome": "João Victor Pereira dos Santos",
-    "email": "victordualib@gmail.com",
-    "avatar": "20131370442.jpg",
     "curso": "cstsi",
-    "campus": "ifpb-jp",
-    "linkedin": "https://www.linkedin.com/in/victorbzk/",
-    "instagram": "https://www.instagram.com/viktorbzk"
+    "campus": "ifpb-jp"
   },
   {
     "id": 20132370420,
@@ -705,11 +701,15 @@
   },
   {
     "id": 20091370129,
-    "nomeSimples": "Otacílio Ferreira",
+    "nomeSimples": "Otacílio Vicente",
     "nome": "Otacílio Vicente Ferreira Neto",
+    "email": "otacilioferreiro@gmail.com",
     "linkedin": "https://www.linkedin.com/in/otacferreiro/",
+    "instagram": "https://www.instagram.com/otacneto/",
+    "github": "https://github.com/OtacFerreiro/",
+    "twitter": "https://twitter.com/OtacilioVF/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp"    
   },
   {
     "id": 20071370395,
@@ -929,20 +929,6 @@
     "facebook": "https://www.facebook.com/rogeriocesar.danobrega",
     "twitter": "https://twitter.com/rogersdk_",
     "instagram": "https://www.instagram.com/rogeriocesardanobrega/",
-    "curso": "cstsi",
-    "campus": "ifpb-jp"
-  },
-  {
-    "id": 20061370325,
-    "nomeSimples": "Marcus Antonius",
-    "nome": "Marcus Antonius Virginio Farias de Queiroz",
-    "email": "contato@marcusantonius.com.br",
-    "avatar": "20061370325.jpg",
-    "linkedin": "https://www.linkedin.com/in/marcusantonius/",
-    "github": "https://github.com/marcusantoniusvfq",
-    "facebook": "https://www.facebook.com/marcusantonius88",
-    "twitter": "https://twitter.com/marcusantonius",
-    "instagram": "https://www.instagram.com/marcusantoniusvfq/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
   }
