@@ -217,7 +217,7 @@
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
-  { 
+  {
     "id": 20051370322,
     "nomeSimples": "Diénert Vieira",
     "nome": "Diénert de Alencar Vieira",
@@ -652,6 +652,7 @@
     "nomeSimples": "Nielson Rolim",
     "nome": "Nielson Dias de Pontes Sobreira Rolim",
     "email": "nielson.rolim@gmail.com",
+    "avatar": "nielsonrolim.jpg",
     "linkedin": "https://www.linkedin.com/in/nielsonrolim/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
