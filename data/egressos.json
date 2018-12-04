@@ -293,9 +293,14 @@
     "nomeSimples": "Evandro Macedo",
     "nome": "Evandro Henrique Cordeiro de Macedo",
     "email": "evandro.hcm@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/evandrohcm/",
+    "avatar": "20121370415.jpg",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "linkedin": "https://www.linkedin.com/in/evandrohcm",
+    "github": "https://github.com/evandromacedo",
+    "facebook": "https://facebook.com/macedoevandro",
+    "twitter": "https://twitter.com/evandromacedo_",
+    "instagram": "https://www.instagram.com/evan.macedo"
   },
   {
     "id": 20131370124,
@@ -547,7 +552,7 @@
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
-  { 
+  {
     "id": 201312010134,
     "nomeSimples": "Manoel Dijalma",
     "nome": "Manoel Dijalma da Silva Filho",
@@ -762,7 +767,7 @@
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
-  { 
+  {
     "id": 20082370340,
     "nomeSimples": "Ramon Pereira",
     "nome": "Ramon Pereira Fernandes de Sousa",
@@ -772,7 +777,7 @@
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
-  { 
+  {
     "id": 20091370137,
     "nomeSimples": "Renan Gadelha",
     "nome": "Renan Marques Gadelha Rodrigues",
