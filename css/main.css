@@ -55,6 +55,10 @@ h1 {
   transition: all .4s;
 }
 
+.egresso figure img {
+  height: 100%;
+}
+
 .egresso:hover figure {
   opacity: 1;
 }
@@ -63,21 +67,50 @@ h1 {
   position: absolute;
   width: 100%;
   height: 100%;
-  text-transform: uppercase;
-  font-weight: bold;
-  text-decoration: none;
-  color: #fff;
   display: flex;
   justify-content: center;
-  align-items: center;
   background-color: rgba(123, 208, 193, .15);
   transition: all .4s;
+}
+
+.egresso .icons {
+  position: absolute;
+  bottom: 10px;
+  text-align: center;
+  width: 98%;
+  margin: 0 auto;
+  z-index: 2;
+}
+
+.egresso .name {
+  position: absolute;
+  bottom: 60px;
+  text-align: center;
+  width: 98%;
+  margin: 0 auto;
+  color: #fff;
+}
+
+.egresso .icons a {
+  margin-left: 10px;
+}
+
+.egresso .icons a:hover {
+  cursor: pointer;
+}
+
+.egresso .icons a img:hover {
+  transition-duration: 0.4s;
+  transform: scale(1.2);
 }
 
 .egresso:hover .info {
   background-color: transparent;
 }
 
-.egresso .info h2 {
+.egresso .name h2 {
   font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: none;
 }
