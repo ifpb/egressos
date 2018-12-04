@@ -246,6 +246,17 @@
     "campus": "ifpb-jp"
   },
   {
+    "id": 20081370460,
+    "nomeSimples": "Diogo Leão",
+    "nome": "Diogo Leão sá Pessoa",
+    "email": "diogosapessoa@gmail.com",
+    "avatar": "20081370460.jpg",
+    "linkedin": "https://www.linkedin.com/in/diogosapessoa/",
+    "github": "https://github.com/undiogo",
+    "curso": "cstsi",
+    "campus": "ifpb-jp"
+  },
+  {
     "id": 20112370319,
     "nomeSimples": "Douglas Torres",
     "nome": "Douglas Gadelha Firmino Torres",
@@ -394,8 +405,7 @@
     "id": 20131370060,
     "nomeSimples": "João Paulo Leite",
     "nome": "João Paulo da Silva Leite",
-    "linkedin":
-     "https://www.linkedin.com/in/joão-paulo-da-silva-leite-522816107/",
+    "linkedin": "https://www.linkedin.com/in/joão-paulo-da-silva-leite-522816107/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
@@ -480,8 +490,7 @@
     "id": 20101370282,
     "nomeSimples": "Julio César Gomes",
     "nome": "Julio César da Silva Gomes",
-    "linkedin":
-     "https://www.linkedin.com/in/julio-césar-da-silva-gomes-594a80107/",
+    "linkedin": "https://www.linkedin.com/in/julio-césar-da-silva-gomes-594a80107/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
@@ -537,8 +546,7 @@
     "nomeSimples": "Luiz Henrique Lopes",
     "nome": "Luiz Henrique Estrela Lopes",
     "email": "luishenriqueestrela@gmail.com",
-    "linkedin":
-     "https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/",
+    "linkedin": "https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
@@ -606,8 +614,7 @@
     "nomeSimples": "Matheus Rangel",
     "nome": "Matheus Ulysses Dantas Rangel",
     "email": "matheusulysses159@gmail.com",
-    "linkedin":
-     "https://www.linkedin.com/in/matheus-ulysses-dantas-rangel-2778114a/",
+    "linkedin": "https://www.linkedin.com/in/matheus-ulysses-dantas-rangel-2778114a/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
@@ -744,7 +751,7 @@
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
-  { 
+  {
     "id": 20082370340,
     "nomeSimples": "Ramon Pereira",
     "nome": "Ramon Pereira Fernandes de Sousa",
@@ -754,7 +761,7 @@
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
-  { 
+  {
     "id": 20091370137,
     "nomeSimples": "Renan Gadelha",
     "nome": "Renan Marques Gadelha Rodrigues",
