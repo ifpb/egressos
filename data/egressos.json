@@ -1070,5 +1070,20 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
+  },
+   {
+    "id": 20121370431,
+    "nomeSimples": "Natanael Guedes",
+    "nome": "Natanael Guedes da Silva Neto",
+    "email": "ngsneto@gmail.com",
+    "avatar": "ft.jpg",
+    "linkedin": "https://www.linkedin.com/in/natanaelguedes/",
+    "github": "https://github.com/natanguedes",
+    "facebook": "https://www.facebook.com/natanaelgs",
+    "twitter": "https://twitter.com/https://twitter.com/natanael_guedes",
+    "instagram": "https://www.instagram.com/natangsneto/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
   }
 ]
