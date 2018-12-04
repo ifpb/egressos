@@ -597,12 +597,14 @@
   },
   {
     "id": 20151370049,
-    "nomeSimples": "Mauricio Lira",
-    "nome": "Mauricio Barbosa de Lira Filho",
-    "email": "mauriciodlira@gmail.com",
+    "nomeSimples": "Maurício de Lira",
+    "nome": "Maurício Barbosa de Lira Filho",
     "linkedin": "https://www.linkedin.com/in/mauriciodelira/",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "facebook": "https://www.facebook.com/deliramauricio",
+    "lattes": "http://lattes.cnpq.br/3721070388802203",
+    "instagram": "https://www.instagram.com/mauriciodlira/"
   },
   {
     "id": 20122370257,
