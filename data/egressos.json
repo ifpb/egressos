@@ -715,7 +715,16 @@
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
-  {
+  { 
+    "id": 20082370340,
+    "nomeSimples": "Ramon Pereira",
+    "nome": "Ramon Pereira Fernandes de Sousa",
+    "email": "ramonpfsousa@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ramonpfsousa/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp"
+  },
+  { 
     "id": 20091370137,
     "nomeSimples": "Renan Gadelha",
     "nome": "Renan Marques Gadelha Rodrigues",
