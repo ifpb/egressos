@@ -228,6 +228,16 @@
     "campus": "ifpb-jp"
   },
   {
+    "id": 20081370312,
+    "nomeSimples": "Diógenes Fernandes",
+    "nome": "Diógenes Augusto Fernandes Hermínio",
+    "email": "diofeher@gmail.com",
+    "avatar": "20081370312.jpg",
+    "linkedin": "https://www.linkedin.com/in/diofeher/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp"
+  },
+  {
     "id": 20072370437,
     "nomeSimples": "Diógenes Calado",
     "nome": "Diógenes Calado da Silva",
@@ -316,6 +326,7 @@
     "nomeSimples": "Gleydson Tavares",
     "nome": "Gleydson da Silva Tavares",
     "email": "tavares.gleydson@gmail.com",
+    "avatar": "20121370547.jpg",
     "linkedin": "https://www.linkedin.com/in/gleydsontavares/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
@@ -486,10 +497,15 @@
     "id": 20112370386,
     "nomeSimples": "Laércio Bezerra",
     "nome": "Laércio de Souza Bezerra",
-    "email": "laerciosbezerra2hotmail.com",
-    "linkedin": "https://www.linkedin.com/in/laércio-bezerra-1a555849/",
+    "email": "laerciosbezerra@gmail.com",
+    "avatar": "20112370386.jpg",
     "curso": "cstsi",
-    "campus": "ifpb-jp"
+    "campus": "ifpb-jp",
+    "linkedin": "https://www.linkedin.com/in/laércio-bezerra-1a555849/",
+    "github": "https://github.com/laerciosb",
+    "facebook": "https://www.facebook.com/laerciosbezerra",
+    "lattes": "http://lattes.cnpq.br/6034799209012820",
+    "instagram": "https://www.instagram.com/laerciosb/"
   },
   {
     "id": 20121370288,
@@ -610,10 +626,22 @@
   },
   {
     "id": 20151370049,
-    "nomeSimples": "Mauricio Lira",
-    "nome": "Mauricio Barbosa de Lira Filho",
-    "email": "mauriciodlira@gmail.com",
+    "nomeSimples": "Maurício de Lira",
+    "nome": "Maurício Barbosa de Lira Filho",
     "linkedin": "https://www.linkedin.com/in/mauriciodelira/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "facebook": "https://www.facebook.com/deliramauricio",
+    "lattes": "http://lattes.cnpq.br/3721070388802203",
+    "instagram": "https://www.instagram.com/mauriciodlira/"
+  },
+  {
+    "id": 20051370144,
+    "nomeSimples": "Moisés Guimarães",
+    "nome": "Moisés Guimarães de Medeiros",
+    "email": "guimaraes@pm.me",
+    "avatar": "20051370144.jpg",
+    "linkedin": "https://www.linkedin.com/in/moisesguimaraes/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
   },
@@ -665,7 +693,7 @@
     "nomeSimples": "Nielson Rolim",
     "nome": "Nielson Dias de Pontes Sobreira Rolim",
     "email": "nielson.rolim@gmail.com",
-    "avatar": "nielsonrolim.jpg",
+    "avatar": "20052370210.jpg",
     "linkedin": "https://www.linkedin.com/in/nielsonrolim/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
@@ -734,6 +762,7 @@
     "nomeSimples": "Ramon Pereira",
     "nome": "Ramon Pereira Fernandes de Sousa",
     "email": "ramonpfsousa@gmail.com",
+    "avatar": "20082370340.jpg",
     "linkedin": "https://www.linkedin.com/in/ramonpfsousa/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
@@ -812,6 +841,7 @@
     "nomeSimples": "Thiago Marinho",
     "nome": "Thiago Figueiredo Costa Marinho",
     "email": "fcmthiago@gmail.com",
+    "avatar": "20121370555.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "linkedin": "https://www.linkedin.com/in/fcmthiago/",
@@ -880,6 +910,20 @@
     "nome": "Wender Mariano Laurentino",
     "email": "wender.mrn@gmail.com",
     "linkedin": "https://www.linkedin.com/in/wender-mrn/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp"
+  },
+  {
+    "id": 20091370153,
+    "nomeSimples": "Rogerio Nobrega",
+    "nome": "Rogerio Cesar da Nobrega",
+    "email": "rogeriocnobrega@gmail.com",
+    "avatar": "20091370153.jpg",
+    "linkedin": "https://www.linkedin.com/in/rogeriocnobrega/",
+    "github": "https://github.com/rogersdk",
+    "facebook": "https://www.facebook.com/rogeriocesar.danobrega",
+    "twitter": "https://twitter.com/rogersdk_",
+    "instagram": "https://www.instagram.com/rogeriocesardanobrega/",
     "curso": "cstsi",
     "campus": "ifpb-jp"
   }
