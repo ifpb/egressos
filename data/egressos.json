@@ -143,6 +143,14 @@
     "egresso": true
   },
   {
+    "id": "031037002",
+    "nomeSimples": "Ana Cláudia Silva",
+    "nome": "Ana Cláudia Costa da Silva",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "20102370030",
     "nomeSimples": "Ana Paula Vale",
     "nome": "Ana Paula de Lucena Vale",
@@ -196,6 +204,15 @@
     "id": "042037148",
     "nomeSimples": "André Nunes",
     "nome": "André Luiz Teixeira de Carvalho Nunes",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "042037151",
+    "nomeSimples": "Anselmo Gomes",
+    "nome": "Anselmo Lacerda Gomes",
+    "linkedin": "https://www.linkedin.com/in/anselmo-lacerda-a6889531/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -294,6 +311,15 @@
     "egresso": true
   },
   {
+    "id": "031037006",
+    "nomeSimples": "Barbara Xavier",
+    "nome": "Barbara de Assis Xavier",
+    "linkedin": "https://www.linkedin.com/in/barbara-xavier-psm-5a43362b/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "031037008",
     "nomeSimples": "Bettowen Oliveira",
     "nome": "Bettowen Carvalho de Oliveira",
@@ -357,6 +383,15 @@
     "nome": "Carlos Diego Quirino Lima",
     "email": "diegoquirino@gmail.com",
     "linkedin": "https://www.linkedin.com/in/carlos-diego-quirino-lima-27bbb039/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "20052370334",
+    "nomeSimples": "Cirino Refosco",
+    "nome": "Cirino Ferreira Refosco",
+    "linkedin": "https://www.linkedin.com/in/cirino/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -493,6 +528,15 @@
     "egresso": true
   },
   {
+    "id": "20051370160",
+    "nomeSimples": "David Viana",
+    "nome": "David Henrique de Moura Viana",
+    "linkedin": "https://www.linkedin.com/in/david-moura-a6863016a/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "20061370082",
     "nomeSimples": "Dawson Brito",
     "nome": "Dawson Jansen Gomes Enedino Brito",
@@ -540,6 +584,15 @@
     "id": "20061370155",
     "nomeSimples": "Diêgo Bulhões",
     "nome": "Diêgo Michel Ferreira Bulhões",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "032037069",
+    "nomeSimples": "Diego Lins",
+    "nome": "Diego Jonio Borba Lins",
+    "linkedin": "https://www.linkedin.com/in/diegojonio/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -653,6 +706,14 @@
     "egresso": true
   },
   {
+    "id": "032037084",
+    "nomeSimples": "Edno França",
+    "nome": "Edno Galderisy Ferreira de França",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "042037138",
     "nomeSimples": "Elias Júnior",
     "nome": "Elias Pereira Gomes Júnior",
@@ -680,11 +741,10 @@
     "egresso": true
   },
   {
-    "id": "20061370180",
-    "nomeSimples": "Erisvaldo Gadelha",
-    "nome": "Erisvaldo Gadelha Saraiva Junior",
-    "email": "jun1nho_jp@hotmail.com",
-    "linkedin": "https://www.linkedin.com/in/erisvaldojunior/",
+    "id": "042037165",
+    "nomeSimples": "Elaine Araújo",
+    "nome": "Elaine Cristina Juvino de Araújo",
+    "linkedin": "https://www.linkedin.com/in/elaine-araujo-31730618/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -714,6 +774,16 @@
     "nome": "Emerson Raniere Oliveira Souza",
     "email": "emersonraniere@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/emersonraniere/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "20061370180",
+    "nomeSimples": "Erisvaldo Gadelha",
+    "nome": "Erisvaldo Gadelha Saraiva Junior",
+    "email": "jun1nho_jp@hotmail.com",
+    "linkedin": "https://www.linkedin.com/in/erisvaldojunior/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -809,6 +879,14 @@
     "egresso": true
   },
   {
+    "id": "20051370012",
+    "nomeSimples": "Gabriela Souza",
+    "nome": "Gabriela Guedes Souza",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "20122370435",
     "nomeSimples": "Geferson Dias",
     "nome": "Geferson Ribeiro Dias",
@@ -889,6 +967,32 @@
     "avatar": "20121370547.jpg",
     "linkedin": "https://www.linkedin.com/in/gleydsontavares/",
     "github": "https://github.com/g13ydson",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "032037045",
+    "nomeSimples": "Gregorio Melo",
+    "nome": "Gregorio Enrico Linhares de Melo",
+    "linkedin": "https://www.linkedin.com/in/gregoriomelo/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "041037089",
+    "nomeSimples": "Gustavo Cavalcanti",
+    "nome": "Gustavo Cavalcanti",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "20051370241",
+    "nomeSimples": "Helder Silva",
+    "nome": "Helder Vieira da Silva",
+    "linkedin": "https://www.linkedin.com/in/heldervieira/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1056,9 +1160,18 @@
     "egresso": true
   },
   {
+    "id": "041037093",
+    "nomeSimples": "João Carlos Lira",
+    "nome": "João Carlos de Lucena Lira",
+    "linkedin": "https://www.linkedin.com/in/joão-lira-5693989/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "20071370158",
-    "nomeSimples": "Joao Rolim",
-    "nome": "Joao Guilherme Rolim",
+    "nomeSimples": "João Rolim",
+    "nome": "João Guilherme Rolim",
     "email": "joaogrolim@gmail.com",
     "curso": "cstsi",
     "campus": "ifpb-jp",
@@ -1199,10 +1312,9 @@
     "egresso": true
   },
   {
-    "id": "20052370130",
-    "nomeSimples": "Juliana Maia",
-    "nome": "Juliana Maia Leite",
-    "linkedin": "https://www.linkedin.com/in/jumaialeite/",
+    "id": "031037024",
+    "nomeSimples": "Jose Wendell Silva",
+    "nome": "Jose Wendell de Morais Silva",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1241,6 +1353,23 @@
     "nome": "Juan Carlos Almeida Santos",
     "email": "juancarllos.a@gmail.com",
     "linkedin": "https://www.linkedin.com/in/juan-carlos-b08a7739/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "20052370130",
+    "nomeSimples": "Juliana Maia",
+    "nome": "Juliana Maia Leite",
+    "linkedin": "https://www.linkedin.com/in/jumaialeite/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  }, {
+    "id": "031037025",
+    "nomeSimples": "Juan Damasceno",
+    "nome": "Juan di Carlo Damasceno",
+    "linkedin": "https://www.linkedin.com/in/juandamasceno/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1300,7 +1429,7 @@
   },
   {
     "id": "20051370268",
-    "nomeSimples": "Leonardo Oliveira de Melo",
+    "nomeSimples": "Leonardo Melo",
     "nome": "Leonardo Oliveira de Melo",
     "email": "leoomelo@gmail.com",
     "linkedin": "https://www.linkedin.com/in/leonardomelo/",
@@ -1321,6 +1450,22 @@
     "id": "20061370309",
     "nomeSimples": "Leydson Silva",
     "nome": "Leydson Barbosa Silva",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "041037095",
+    "nomeSimples": "Lucas Cruz",
+    "nome": "Lucas Cavalcanti Cruz",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "041037101",
+    "nomeSimples": "Lucas Souza",
+    "nome": "Lucas Vieira de Souza",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1761,6 +1906,14 @@
     "egresso": true
   },
   {
+    "id": "20061370341",
+    "nomeSimples": "Paula Karenina Freire",
+    "nome": "Paula Karenina de Macêdo Machado Freire",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "20111370021",
     "nomeSimples": "Paulo Linhares",
     "nome": "Paulo Virgílio Gomes Linhares Neto",
@@ -1900,6 +2053,15 @@
     "egresso": true
   },
   {
+    "id": "031037032",
+    "nomeSimples": "Raphael Patricio",
+    "nome": "Raphael Freire de Araujo Patricio",
+    "linkedin": "https://www.linkedin.com/in/raphael-patricio-3a313023/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "20052370245",
     "nomeSimples": "Raphael Porto",
     "nome": "Raphael de Almeida Porto",
@@ -1953,6 +2115,15 @@
     "nomeSimples": "Renan Gadelha",
     "nome": "Renan Marques Gadelha Rodrigues",
     "email": "renangadelha@yahoo.com.br",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "042037111",
+    "nomeSimples": "Rebeca Matias",
+    "nome": "Rebeca Barreto Matias Dantas",
+    "linkedin": "https://www.linkedin.com/in/rebeca-mahéo-5a98b12a/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -2026,6 +2197,15 @@
     "egresso": true
   },
   {
+    "id": "20052370393",
+    "nomeSimples": "Roberto Teixeira",
+    "nome": "Roberto Teixeira de Carvalho Filho",
+    "linkedin": "https://www.linkedin.com/in/roberto-teixeira-de-carvalho-355943138/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "20071370263",
     "nomeSimples": "Robismar Fragoso",
     "nome": "Robismar Rodrigues Fragoso",
@@ -2050,6 +2230,15 @@
     "nome": "Rodrigo Barbosa Costa de Carvalho",
     "email": "rodrigocarvalho88@hotmail.com",
     "linkedin": "https://www.linkedin.com/in/rodrigobcc/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "20051370373",
+    "nomeSimples": "Rodrigo Gouveia",
+    "nome": "Rodrigo de Araujo Gouveia",
+    "linkedin": "https://www.linkedin.com/in/rodrigo-gouveia-32612236/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -2268,6 +2457,15 @@
     "egresso": true
   },
   {
+    "id": "032037062",
+    "nomeSimples": "Ugo Cavalcanti",
+    "nome": "Ugo da Costa Cavalcanti",
+    "linkedin": "https://www.linkedin.com/in/ugo-cavalcanti-718aaa21/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "20111370420",
     "nomeSimples": "Victor Augusto",
     "nome": "Victor Augusto Pinto Costa",
@@ -2279,9 +2477,10 @@
   },
   {
     "id": "20051370039",
-    "nomeSimples": "Vinicius Souto",
+    "nomeSimples": "Vinicius Artur",
     "nome": "Vinicius Souto Brandão Artur",
     "email": "parcimonioso@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/viniciusartur/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -2343,6 +2542,15 @@
     "linkedin": "https://www.linkedin.com/in/wender-mrn/",
     "github": "https://github.com/wendermrn",
     "facebook": "https://www.facebook.com/wender.mrn",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "20051370438",
+    "nomeSimples": "Wesley Menezes",
+    "nome": "Wesley Willame Dias Menezes",
+    "linkedin": "https://www.linkedin.com/in/wesley-menezes-23468942/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
