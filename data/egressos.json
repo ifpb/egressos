@@ -10,6 +10,14 @@
     "egresso": true
   },
   {
+    "id": 20091370072,
+    "nomeSimples": "Alessandra Silva",
+    "nome": "Alessandra Mendes da Silva",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": 20121370474,
     "nomeSimples": "Alexandre Dias",
     "nome": "Alexandre Dias Sales De Morais",
@@ -175,8 +183,8 @@
   },
   {
     "id": 20091370374,
-    "nomeSimples": "D\"angellys Cavalcanti",
-    "nome": "D\"angellys Cavalcanti Feitosa",
+    "nomeSimples": "D'angellys Cavalcanti",
+    "nome": "D'angellys Cavalcanti Feitosa",
     "email": "dangellyscavalcanti@gmail.com",
     "linkedin": "https://www.linkedin.com/in/dangellys-cavalcanti/",
     "curso": "cstsi",
@@ -194,11 +202,29 @@
     "egresso": true
   },
   {
+    "id": 20091370030,
+    "nomeSimples": "Daniel Vilar",
+    "nome": "Daniel Vilar Pereira",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": 20111370439,
     "nomeSimples": "Daniela Pitta",
     "nome": "Daniela Pitta de Jesus",
     "email": "daniela.pdj@gmail.com",
     "linkedin": "https://www.linkedin.com/in/dlpitta/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": 20091370188,
+    "nomeSimples": "Davi Bandeira",
+    "nome": "Davi Cavalcanti Pinto Bandeira",
+    "email": "davibandeira@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/davi-bandeira-2651b325/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -292,6 +318,25 @@
     "nomeSimples": "Éder Pires",
     "nome": "Éder Pires Batista",
     "linkedin": "https://www.linkedin.com/in/eder-pires-a46b867b/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": 20091370080,
+    "nomeSimples": "Érico Ramos",
+    "nome": "Érico Vinicius da Silva Ramos",
+    "email": "evsramos@gmail.com",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": 20092370297,
+    "nomeSimples": "Elias Rocha",
+    "nome": "Elias Medeiros da Rocha",
+    "email": "eliasipj@yahoo.com.br",
+    "linkedin": "https://www.linkedin.com/in/eliasmrocha/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -497,8 +542,8 @@
   },
   {
     "id": 20092370211,
-    "nomeSimples": "Jonatas Melo",
-    "nome": "Jonatas Clementino Melo",
+    "nomeSimples": "Jônatas Melo",
+    "nome": "Jônatas Clementino Melo",
     "email": "jonatas.cmelo@gmail.com",
     "linkedin": "https://www.linkedin.com/in/jonatascmelo/",
     "curso": "cstsi",
@@ -558,6 +603,16 @@
     "nomeSimples": "Julio Martins",
     "nome": "Julio Martins Filho",
     "linkedin": "https://www.linkedin.com/in/wmjulio/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": 20092370351,
+    "nomeSimples": "Kássio Oliveira",
+    "nome": "Kássio Kiarelly Soares de Oliveira",
+    "email": "kassiokiarelly@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/kassiokiarelly/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -679,7 +734,7 @@
   {
     "id": 20092370262,
     "nomeSimples": "Mateus Lucena",
-    "nome": "Mateus Barreto Nóbrega de Lucena",
+    "nome": "Mateus Barrêto Nóbrega de Lucena",
     "email": "mateusbnl@hotmail.com",
     "curso": "cstsi",
     "campus": "ifpb-jp",
@@ -716,6 +771,21 @@
     "facebook": "https://www.facebook.com/deliramauricio",
     "lattes": "http://lattes.cnpq.br/3721070388802203",
     "instagram": "https://www.instagram.com/mauriciodlira/"
+  }, 
+  {
+    "id": 20061370325,
+    "nomeSimples": "Marcus Antonius",
+    "nome": "Marcus Antonius Virginio Farias de Queiroz",
+    "email": "contato@marcusantonius.com.br",
+    "avatar": "20061370325.jpg",
+    "linkedin": "https://www.linkedin.com/in/marcusantonius/",
+    "github": "https://github.com/marcusantoniusvfq",
+    "facebook": "https://www.facebook.com/marcusantonius88",
+    "twitter": "https://twitter.com/marcusantonius",
+    "instagram": "https://www.instagram.com/marcusantoniusvfq/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
   },
   {
     "id": 20071370379,
@@ -739,6 +809,15 @@
     "email": "guimaraes@pm.me",
     "avatar": "20051370144.jpg",
     "linkedin": "https://www.linkedin.com/in/moisesguimaraes/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": 20092370416,
+    "nomeSimples": "Nailson Cunha",
+    "nome": "Nailson dos Santos Cunha",
+    "email": "nailsoncunha@gmail.com",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -828,6 +907,16 @@
     "id": 20071370395,
     "nomeSimples": "Pablo Cunha",
     "nome": "Pablo Cunha Dantas",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": 20092370076,
+    "nomeSimples": "Pablo Veinberg",
+    "nome": "Pablo Sebastian Veinberg",
+    "email": "pveinberg@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/pablo-veinberg-00207224/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -928,6 +1017,21 @@
     "nomeSimples": "Rivania Silva",
     "nome": "Rivania de Sousa Barros da Silva",
     "email": "rivaniabarros@gmail.com",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": 20091370153,
+    "nomeSimples": "Rogério Nóbrega",
+    "nome": "Rogério César da Nóbrega",
+    "email": "rogeriocnobrega@gmail.com",
+    "avatar": "20091370153.jpg",
+    "linkedin": "https://www.linkedin.com/in/rogeriocnobrega/",
+    "github": "https://github.com/rogersdk",
+    "facebook": "https://www.facebook.com/rogeriocesar.danobrega",
+    "twitter": "https://twitter.com/rogersdk_",
+    "instagram": "https://www.instagram.com/rogeriocesardanobrega/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1056,6 +1160,16 @@
     "egresso": true
   },
   {
+    "id": 20091370099,
+    "nomeSimples": "Walter Travassos",
+    "nome": "Walter Travassos Sarinho",
+    "email": "waltertravassos@hotmail.com",
+    "linkedin": "https://www.linkedin.com/in/walter-travassos-22b09922/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": 20102370391,
     "nomeSimples": "Wandesson Soares",
     "nome": "Wandesson da Silva Soares",
@@ -1080,36 +1194,6 @@
     "nome": "Wender Mariano Laurentino",
     "email": "wender.mrn@gmail.com",
     "linkedin": "https://www.linkedin.com/in/wender-mrn/",
-    "curso": "cstsi",
-    "campus": "ifpb-jp",
-    "egresso": true
-  },
-  {
-    "id": 20091370153,
-    "nomeSimples": "Rogerio Nobrega",
-    "nome": "Rogerio Cesar da Nobrega",
-    "email": "rogeriocnobrega@gmail.com",
-    "avatar": "20091370153.jpg",
-    "linkedin": "https://www.linkedin.com/in/rogeriocnobrega/",
-    "github": "https://github.com/rogersdk",
-    "facebook": "https://www.facebook.com/rogeriocesar.danobrega",
-    "twitter": "https://twitter.com/rogersdk_",
-    "instagram": "https://www.instagram.com/rogeriocesardanobrega/",
-    "curso": "cstsi",
-    "campus": "ifpb-jp",
-    "egresso": true
-  }, 
-  {
-    "id": 20061370325,
-    "nomeSimples": "Marcus Antonius",
-    "nome": "Marcus Antonius Virginio Farias de Queiroz",
-    "email": "contato@marcusantonius.com.br",
-    "avatar": "20061370325.jpg",
-    "linkedin": "https://www.linkedin.com/in/marcusantonius/",
-    "github": "https://github.com/marcusantoniusvfq",
-    "facebook": "https://www.facebook.com/marcusantonius88",
-    "twitter": "https://twitter.com/marcusantonius",
-    "instagram": "https://www.instagram.com/marcusantoniusvfq/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
