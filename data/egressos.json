@@ -289,8 +289,8 @@
   },
   {
     "id": 20112370238,
-    "nomeSimples": "Eder Pires",
-    "nome": "Eder Pires Batista",
+    "nomeSimples": "Éder Pires",
+    "nome": "Éder Pires Batista",
     "linkedin": "https://www.linkedin.com/in/eder-pires-a46b867b/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
@@ -744,10 +744,19 @@
     "egresso": true
   },
   {
+    "id": 20101370339,
+    "nomeSimples": "Naftali França",
+    "nome": "Naftali Augusto Borges de França",
+    "email": "naftalifranca@hotmail.com",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": 20122370257,
     "nomeSimples": "Natacha Targino",
-    "nome": "Natacha Targino R. Simões Brasileiro",
-    "email": "targino.natacha@gmail.com ",
+    "nome": "Natacha Targino Rodrigues Simões Brasileiro",
+    "email": "targino.natacha@gmail.com",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -914,12 +923,29 @@
     "github": "https://github.com/rimenes",
     "twitter": "https://www.instagram.com/rimenes/"
   },
+  { 
+    "id": 20101370371,
+    "nomeSimples": "Rivania Silva",
+    "nome": "Rivania de Sousa Barros da Silva",
+    "email": "rivaniabarros@gmail.com",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
   {
     "id": 20122370397,
     "nomeSimples": "Samyra Almeida",
     "nome": "Samyra Lara Ferreira de Almeida",
     "email": "samyralara@outlook.com",
     "linkedin": "https://www.linkedin.com/in/samyra-lara-almeida/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": 20102370340,
+    "nomeSimples": "Sandro Araujo",
+    "nome": "Sandro Lopes Izidro Araujo",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
