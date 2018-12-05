@@ -19,6 +19,7 @@ function mountCard(person) {
   let linkedin = ``
   let facebook = ``
   let instagram = ``
+  let twitter = ``
 
   if (person.hasOwnProperty("linkedin")) {
     linkedin = `<a target="_blank" href="${person.linkedin}"><img src="img/icons/linkedin.png" alt="linkedin"/></a>`
@@ -36,12 +37,16 @@ function mountCard(person) {
     instagram = `<a target="_blank" href="${person.instagram}"><img src="img/icons/instagram.png" alt="instagram"/></a>`
   }
 
+  if (person.hasOwnProperty("twitter")) {
+    twitter = `<a target="_blank" href="${person.twitter}"><img src="img/icons/twitter.png" alt="twitter"/></a>`
+  }
+
   const card = `<div class="egresso">
     <figure>
       <img src="img/egressos/${person.hasOwnProperty("avatar") ? person.avatar : 'placeholder.jpg'}" alt="${person.nomeSimples}">
     </figure>
     <div class="icons">
-        ${linkedin + github + facebook + instagram}
+        ${linkedin + github + facebook + instagram + twitter}
     </div>
     <div class="info">
     </div>
