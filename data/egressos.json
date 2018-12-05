@@ -1413,5 +1413,21 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
+  },
+  {
+    "id": 20111370307,
+    "nomeSimples": "Bruno Paulino",
+    "nome": "Bruno de Araújo Paulino",
+    "avatar": "20111370307.jpg",
+    "email": "brunojppb@gmail.com",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/brunojppb",
+    "github": "https://github.com/brunojppb",
+    "facebook": "https://www.facebook.com/brunojppb",
+    "twitter": "https://twitter.com/brunojppb",
+    "instagram": "https://www.instagram.com/brunojppb1/",
+    "stackoverflow": "https://stackoverflow.com/users/2301092/bruno-paulino"
   }
 ]
