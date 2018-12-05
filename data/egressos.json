@@ -729,13 +729,17 @@
   },
   {
     "id": "041037103",
-    "nomeSimples": "Emerson Araújo",
+    "nomeSimples": "Emerson Diego",
     "nome": "Emerson Diego da Costa Araújo",
-    "email": "dieguemerson@yahoo.com.br",
+    "email": "diegowebby@gmail.com.br",
     "linkedin": "https://www.linkedin.com/in/emerson-diego/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "github": "https://github.com/emerson-diego",
+    "facebook": "https://www.facebook.com/emerson.diego.14",
+    "lattes": "http://lattes.cnpq.br/8718633182693616",
+    "twitter": "https://twitter.com/diegowebby",
   },
   {
     "id": "20091370080",
