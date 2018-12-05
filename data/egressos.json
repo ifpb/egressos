@@ -2331,10 +2331,13 @@
   },
   {
     "id": "20131370159",
-    "nomeSimples": "Wender Laurentino",
+    "nomeSimples": "Wender Mariano",
     "nome": "Wender Mariano Laurentino",
+		"avatar":"20131370159.jpg",
     "email": "wender.mrn@gmail.com",
     "linkedin": "https://www.linkedin.com/in/wender-mrn/",
+		"github": "https://github.com/wendermrn",
+		"facebook": "https://www.facebook.com/wender.mrn",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
