@@ -404,10 +404,15 @@
     "id": "20072370801",
     "nomeSimples": "Daniel Cardoso",
     "nome": "Daniel Fernandes Vilar Cardoso",
+    "email": "fvcdaniel@gmail.com",
     "linkedin": "https://www.linkedin.com/in/daniel-cardoso-51b52b29/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "avatar": "20072370801.jpg",
+    "egresso": true,
+    "github": "https://github.com/fvcdaniel",
+    "lattes": "http://lattes.cnpq.br/4472098497391191",
+    "twitter": "https://twitter.com/fvcdaniel/"
   },
   {
     "id": "20102370081",
