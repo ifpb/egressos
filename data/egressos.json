@@ -897,6 +897,19 @@
     "campus": "ifpb-jp",
     "egresso": true
   },
+  { 
+    "id": 20011013081,
+    "nomeSimples": "Rimenes Ribeiro",
+    "nome": "Rimenes Farias Ribeiro",
+    "email": "rima@rimenesribeiro.com",
+    "avatar": "20011013081.jpg",
+    "curso": "cstt",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/rimenes/",
+    "github": "https://github.com/rimenes",
+    "twitter": "https://www.instagram.com/rimenes/"
+  },
   {
     "id": 20122370397,
     "nomeSimples": "Samyra Almeida",
