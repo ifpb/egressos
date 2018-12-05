@@ -44,6 +44,7 @@
 .egresso .front figure {
   display: flex;
   margin: 0;
+  opacity: 0.4;
 }
 .egresso .front .name {
   position: absolute;
@@ -74,7 +75,7 @@
   align-content: center;
   align-items: center;
   justify-content: space-between;
-  background: #06A77D;
+  background: #3f3f37;
   z-index: 1000;
   transform: rotateY(-180deg);
   transform-style: preserve-3d;
@@ -87,6 +88,9 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+}
+.egresso .back hr {
+  background: #eee;
 }
 .egresso .back .links {
   display: flex;
@@ -110,12 +114,18 @@
 .egresso .back .links .button:hover img {
   transform: scale(1.1);
 }
+.egresso .back .info {
+  color: #eee;
+}
 .egresso .back .info h2 {
   font-size: 1.3rem;
   font-weight: 600;
+  margin-bottom: 0.3rem;
 }
 .egresso .back .info h4 {
   font-size: 1.1rem;
+  margin-top: 0.3rem;
+  font-weight: 100;
 }
 
 .egresso.flip .front {
@@ -142,6 +152,9 @@
 .egresso:hover {
   transform: scale(1.2);
 }
+.egresso:hover .front figure {
+  opacity: 0.9;
+}
 .egresso:hover .front .name {
   background-color: rgba(20, 20, 20, 0.7);
   box-shadow: 0 -15px 25px rgba(20, 20, 20, 0.7);
@@ -152,6 +165,17 @@ footer {
   background-color: #333;
   color: #eee;
   text-align: center;
+}
+
+nav {
+  background-color: #3f3f37;
+}
+nav .brand {
+  font-weight: 100;
+  letter-spacing: 0.3rem;
+}
+nav .sidenav-trigger {
+  padding: 0 1.8rem;
 }
 
 /*# sourceMappingURL=App.css.map */

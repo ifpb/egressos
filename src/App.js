@@ -27,14 +27,33 @@ class App extends Component {
       .then( (data) => 
           {
             let alunos = []
+            let ano = []
+            let curso = []
+            let campus = []
+
               data.map(aluno => {
                 alunos.push(aluno)
+                ano.push(aluno.id.toString().substr(0,5));
+                curso.push(aluno.curso);
+                campus.push(aluno.campus);
                 return 0
               })
-              this.setState({
+
+            ano = [...new Set(ano)]
+            curso = [...new Set(curso)]
+            campus = [...new Set(campus)]
+            
+            ano.sort()
+            curso.sort()
+            campus.sort()
+            
+            this.setState({
                 isLoading: false,
                 alunos : alunos,
-                alunosShown: alunos
+                alunosShown: alunos,
+                anos: ano,
+                cursos: curso,
+                campi: campus
               })
           }
       ).catch ((e) => {
@@ -44,7 +63,6 @@ class App extends Component {
       })
   
   }
-
   
   resetAlunos = () => {
     this.setState({
@@ -52,13 +70,66 @@ class App extends Component {
     })
   }
 
+    //Filtro
+    applyFilter = (campo , value) => {
+          if (value === 'all'){
+            this.resetAlunos()
+          }else{
+            switch(campo){
+              case 'Campus':
+                this.setState({
+                  alunosShown: this.state.alunosShown.filter(aluno => aluno.campus.includes(value))
+                });
+                return 0;
+              case 'Ano':
+                this.setState({
+                  alunosShown: this.state.alunosShown.filter(aluno => {
+                    if(aluno.id.toString().substr(0,5) === value)
+                      return aluno
+                  })
+                });
+                return 0;
+                case 'Curso':
+                this.setState({
+                  alunosShown: this.state.alunosShown.filter(aluno => aluno.curso.includes(value))
+                });
+                return 0;
+                default:
+                return 1
+            }
+            
+          }
+        }
+      
+    searchAluno = (query) => {
+    
+          if(query === ''){
+            this.resetAlunos();
+            this.setState({
+              query: query
+            })
+            
+          }else{
+            this.setState({
+              query : query,
+              alunosShown: this.state.alunosShown.filter( aluno => {
+                    if(aluno.nomeSimples.toUpperCase().includes(query.toUpperCase())){
+                      return aluno
+                    }else if(aluno.nome.toUpperCase().includes(query.toUpperCase())) {
+                      return aluno
+                    }
+                })
+          })
+        }
+    }
+
   render() {
-    const {isLoading, alunosShown} = this.state
+    const {isLoading, alunosShown, cursos, campi, anos} = this.state
     return (
       <div className="App">
        
         {isLoading? (<Loading/>) : ( <Fragment>
-          <Header/>
+          <Header applyFilter={this.applyFilter} searchAluno={this.searchAluno} cursos={cursos} campi={campi} anos={anos} />
           <List alunos={alunosShown}/>
           <Footer/>
           </Fragment>)}

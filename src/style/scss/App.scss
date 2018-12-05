@@ -47,6 +47,7 @@ $yellow: #E5D352;
         figure{
             display: flex;
             margin: 0;
+            opacity: .4;
            
         }
         .name{
@@ -79,7 +80,7 @@ $yellow: #E5D352;
         align-content: center;
         align-items: center;
         justify-content: space-between;
-        background: #06A77D;
+        background: #3f3f37;
         z-index: 1000;
         transform: rotateY(-180deg);
         transform-style: preserve-3d;
@@ -91,6 +92,9 @@ $yellow: #E5D352;
             display: flex;
             flex-direction: column;
             justify-content: space-between;
+        }
+        hr{
+            background: #eee;
         }
         .links{    
             display: flex;
@@ -117,13 +121,16 @@ $yellow: #E5D352;
             }
         }
         .info{
-            
+            color:#eee;
             h2{
                 font-size: 1.3rem;
                 font-weight: 600;
+                margin-bottom: .3rem;
             }
             h4{
                 font-size: 1.1rem;
+                margin-top: .3rem;
+                font-weight: 100;
                 
             }
         }
@@ -152,10 +159,16 @@ $yellow: #E5D352;
 }
 .egresso:hover{
     transform: scale(1.2);
-    .front .name{
-        background-color: rgba(20,20,20,0.7);
-        box-shadow: 0 -15px 25px rgba(20,20,20,0.7);
-    }
+    
+    .front {
+        figure{
+            opacity: .9;
+        }
+            .name{
+            background-color: rgba(20,20,20,0.7);
+            box-shadow: 0 -15px 25px rgba(20,20,20,0.7);
+        }
+    } 
 }
 
 footer{
@@ -163,4 +176,16 @@ footer{
     background-color: #333;
     color: #eee;
     text-align: center;
+}
+
+nav{
+    background-color: #3f3f37;
+    .brand{
+        font-weight: 100;
+        letter-spacing: 0.3rem;
+    }
+    .sidenav-trigger{
+    padding: 0 1.8rem;
+}
+
 }
