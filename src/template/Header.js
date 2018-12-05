@@ -32,7 +32,7 @@ const SideNavMenu = compose() ( props =>
         {/* CATEGORY-SELECT 
             controlled component as a select dropdown that filters the places shown by category
         */}
-        <Input s={12} type='select' label="Campus" defaultValue='0' onChange={ (e) => {props.applyFilter('Campus' ,e.target.value)}}>
+        <Input s={12} type='select' label="Campus" defaultValue='0' onChange={ (e) => {props.applyFilter('campus' ,e.target.value)}}>
           <option value='all'>Todos</option>
           {props.campi.map(campus => {
               return <option value={campus}>{campus}</option>
@@ -40,14 +40,14 @@ const SideNavMenu = compose() ( props =>
           
         </Input>
 
-        <Input s={12} type='select' label="Curso" defaultValue='0' onChange={ (e) => {props.applyFilter('Curso' ,e.target.value)}}>
+        <Input s={12} type='select' label="Curso" defaultValue='0' onChange={ (e) => {props.applyFilter('curso' ,e.target.value)}}>
           <option value='all'>Todos</option>
           {props.cursos.map(curso => {
               return <option value={curso}>{curso}</option>
           })}
         </Input>
 
-        <Input s={12} type='select' label="Ingresso" defaultValue='0' onChange={ (e) => {props.applyFilter('Ano' ,e.target.value)}}>
+        <Input s={12} type='select' label="Ingresso" defaultValue='0' onChange={ (e) => {props.applyFilter('ano' ,e.target.value)}}>
           <option value='all'>Todos</option>
           {props.anos.map(ano => {
               return <option value={ano}>{ano.substr(0,4)+'/'+ano.substr(4,1)}</option>

@@ -12,11 +12,26 @@ class App extends Component {
     alunosShown: [],
     hasError : false,
     query : '',
+    filters:{
+        curso : {
+                isset: false,
+                query: ''
+              },
+        ano : {
+                isset: false,
+                query: ''
+              },
+        campus : {
+                isset: false,
+                query: ''
+      }
+    },
     isLoading : true
   }
   //INICIALIZAÇÃO DOS ALUNOS
   componentDidMount() {
     this._getAlunos()
+    
   }
 
   //FUNÇÃO FETCH DO JSON
@@ -27,6 +42,7 @@ class App extends Component {
       .then( (data) => 
           {
             let alunos = []
+            let alunosShown = [];
             let ano = []
             let curso = []
             let campus = []
@@ -46,6 +62,12 @@ class App extends Component {
             ano.sort()
             curso.sort()
             campus.sort()
+
+            this.state.filters.map( filter =>
+            {
+              if(filter.isset)
+                console.log('filtra os alunos por '+ filter.query)
+            })
             
             this.setState({
                 isLoading: false,
@@ -72,33 +94,10 @@ class App extends Component {
 
     //Filtro
     applyFilter = (campo , value) => {
-          if (value === 'all'){
-            this.resetAlunos()
-          }else{
-            switch(campo){
-              case 'Campus':
-                this.setState({
-                  alunosShown: this.state.alunosShown.filter(aluno => aluno.campus.includes(value))
-                });
-                return 0;
-              case 'Ano':
-                this.setState({
-                  alunosShown: this.state.alunosShown.filter(aluno => {
-                    if(aluno.id.toString().substr(0,5) === value)
-                      return aluno
-                  })
-                });
-                return 0;
-                case 'Curso':
-                this.setState({
-                  alunosShown: this.state.alunosShown.filter(aluno => aluno.curso.includes(value))
-                });
-                return 0;
-                default:
-                return 1
-            }
+          this.state.filters.map( filter => {
+        
+          })
             
-          }
         }
       
     searchAluno = (query) => {
@@ -125,6 +124,7 @@ class App extends Component {
 
   render() {
     const {isLoading, alunosShown, cursos, campi, anos} = this.state
+
     return (
       <div className="App">
        
