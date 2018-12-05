@@ -1418,5 +1418,15 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
+  },
+  {
+    "id": 20111370021,
+    "nomeSimples": "Paulo Linhares",
+    "nome": "Paulo Virgílio Gomes Linhares Neto",
+    "email": "paulitolinhares@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/paulitolinhares/",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
   }
 ]
