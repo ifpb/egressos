@@ -296,7 +296,12 @@
     "linkedin": "http://linkedin.com/in/diego-pessoa-6a137b28/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "avatar": "20061370112.jpg",
+    "egresso": true,
+    "github": "https://github.com/diegoep",
+    "lattes": "http://lattes.cnpq.br/4442363726982518",
+    "researchgate": "https://www.researchgate.net/profile/Diego_Pessoa",
+    "twitter": "https://twitter.com/diegopessoa/"
   },
   {
     "id": 20082370154,
@@ -899,7 +904,7 @@
     "facebook": "https://www.facebook.com/deliramauricio",
     "lattes": "http://lattes.cnpq.br/3721070388802203",
     "instagram": "https://www.instagram.com/mauriciodlira/"
-  }, 
+  },
   {
     "id": 20061370325,
     "nomeSimples": "Marcus Antonius",
@@ -1157,7 +1162,7 @@
     "campus": "ifpb-jp",
     "egresso": true
   },
-  { 
+  {
     "id": 20011013081,
     "nomeSimples": "Rimenes Ribeiro",
     "nome": "Rimenes Farias Ribeiro",
@@ -1170,7 +1175,7 @@
     "github": "https://github.com/rimenes",
     "twitter": "https://www.instagram.com/rimenes/"
   },
-  { 
+  {
     "id": 20101370371,
     "nomeSimples": "Rivania Silva",
     "nome": "Rivania de Sousa Barros da Silva",
