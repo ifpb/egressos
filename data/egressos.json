@@ -2045,10 +2045,14 @@
     "nomeSimples": "Rafael Medeiros",
     "nome": "Rafael Figueirêdo de Medeiros",
     "email": "rafaelmedeirospb@hotmail.com",
-    "linkedin": "https://www.linkedin.com/in/rafael-medeiros-aa9b97133/",
+    "avatar": "20141370402.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/rafael-medeiros-pb/",
+    "github": "https://github.com/rafaelmedeirospb",
+    "facebook": "https://www.facebook.com/rafael.figueiredo.35",
+    "instagram": "https://www.instagram.com/rafafigueiredo1"
   },
   {
     "id": "20102370308",
@@ -2641,19 +2645,4 @@
     "campus": "ifpb-jp",
     "egresso": true
   }
-  { 
-    "id": "20141370402",
-    "nomeSimples": "RAFAEL MEDEIROS",
-    "nome": "RAFAEL FIGUEIRÊDO DE MEDEIROS",
-    "email": "rafaelmedeirospb@hotmail.com",
-    "avatar": "20141370402.jpg",
-    "curso": "cstsi",
-    "campus": "ifpb-jp",
-    "egresso": true,
-    "linkedin": "https://www.linkedin.com/in/rafael-medeiros-pb/",
-    "github": "https://github.com/rafaelmedeirospb",
-    "facebook": "https://www.facebook.com/rafael.figueiredo.35",
-    "instagram": "https://www.instagram.com/rafafigueiredo1"
-  }
-
 ]
