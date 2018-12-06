@@ -1,15 +1,13 @@
 import React from 'react'
+import Spinner from '../icons/spinner.png';
 
 const Loading = () => {
     let content = <div className="loading-screen">
-                    <div className="container loader1">
-                        <div className="item"></div>
-                        <div className="item"></div>
-                        <div className="item"></div>
-                        <div className="item"></div>
+                    <div className="container spinner">
+                        <img src={Spinner} alt="Spinner"></img>
                     </div>
-                    <div className="wrapper">
-                        <h2>Por onde anda...</h2>
+                    <div className="text">
+                        <h2>Carregando</h2>
                     </div>
                 </div>
                 

@@ -1,6 +1,6 @@
 const api = 'https://api.linkedin.com/v2/';
-const apiID = '78688bd9eyqk72';
-const apiSecret = 'fIs4cQk6mWbDgWsH';
+const apiID = '';//INSIRA O CLIENTID
+const apiSecret = '';//INSIRA O CLIENTSECRET
 const headers = {
     'Accept' : 'application/json'
 }

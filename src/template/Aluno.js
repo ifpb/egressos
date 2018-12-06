@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import {Icon, Chip} from 'react-materialize'
 import PersonalLinks from './PersonalLinks'
+import {campiName, cursoName} from '../info/info';
 
 class Aluno extends Component {
     state = {
@@ -14,35 +15,21 @@ class Aluno extends Component {
     }
 
     _turma(id){
-        id = id.toString().substr(0,4) + '-' + id.toString().substr(4,1)
+        if(id.toString().substr(0,2) !== '20'){
+            if(id.toString().substr(0,1) === '0'){
+              id = ('20'+id.toString().substr(0,2)+'-'+id.toString().substr(2,1))
+            }else{
+              id = ('19'+id.toString().substr(0,2)+'-'+id.toString().substr(2,1))
+            }
+          }else{
+            id  = (id.toString().substr(0,4)+'-'+id.toString().substr(4,1));
+          }
         return(
             <Chip>{id}</Chip>
         )
     }
-    _campus(campus){
-        campus = campus.substr(5).toUpperCase();
-        switch(campus){
-            case 'CG':
-                return <Chip>Campina Grande</Chip>
-            case 'JP':
-                return <Chip>João Pessoa</Chip>
-            case 'CZ':
-                return <Chip>Cajazeiras</Chip>
-            default:
-                return 0
-        }
-        
-    }
-    _curso(curso){
-        switch(curso.toUpperCase()){
-            case 'CSTSI':
-                return <h4>Sistemas Para Internet</h4>
-            case 'ADS':
-                return <h4>Análise e Desenvolvimento de Sistemas</h4>
-            default:
-                return 0
-        }
-    }
+    
+    
     render(){
         const {flip} = this.state
         const {aluno} = this.props
@@ -67,8 +54,8 @@ class Aluno extends Component {
                         <div className="info">
                             <h2>{aluno.nomeSimples}</h2>
                             <hr></hr>
-                            <div>{this._curso(aluno.curso)}</div>
-                            <div> {this._turma(aluno.id)} {this._campus(aluno.campus)}</div>
+                            <div>{cursoName[aluno.curso]}</div>
+                            <div> {this._turma(aluno.id)} <Chip>{campiName[aluno.campus]}</Chip></div>
                             
                         </div>
                         <div className="links">

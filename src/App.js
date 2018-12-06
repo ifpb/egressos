@@ -31,7 +31,7 @@ class App extends Component {
   //INICIALIZAÇÃO DOS ALUNOS
   componentDidMount() {
     this._getAlunos()
-    
+
   }
 
   //FUNÇÃO FETCH DO JSON
@@ -42,19 +42,32 @@ class App extends Component {
       .then( (data) => 
           {
             let alunos = []
-            let alunosShown = [];
+            let ids = []
             let ano = []
             let curso = []
             let campus = []
 
               data.map(aluno => {
-                alunos.push(aluno)
-                ano.push(aluno.id.toString().substr(0,5));
-                curso.push(aluno.curso);
-                campus.push(aluno.campus);
+                if(!ids.includes(aluno.id)){
+                  ids.push(aluno.id)
+                  alunos.push(aluno)
+                  if(aluno.id.toString().substr(0,2) !== '20'){
+                    if(aluno.id.toString().substr(0,1) === '0'){
+                      ano.push('20'+aluno.id.toString().substr(0,2))
+                    }else{
+                      ano.push('19'+aluno.id.toString().substr(0,2))
+                    }
+                  }else{
+                    ano.push(aluno.id.toString().substr(0,4));
+                  }
+                  curso.push(aluno.curso);
+                  campus.push(aluno.campus);
+                }
+                
                 return 0
               })
 
+           
             ano = [...new Set(ano)]
             curso = [...new Set(curso)]
             campus = [...new Set(campus)]
@@ -63,12 +76,8 @@ class App extends Component {
             curso.sort()
             campus.sort()
 
-            this.state.filters.map( filter =>
-            {
-              if(filter.isset)
-                console.log('filtra os alunos por '+ filter.query)
-            })
             
+
             this.setState({
                 isLoading: false,
                 alunos : alunos,
@@ -77,6 +86,7 @@ class App extends Component {
                 cursos: curso,
                 campi: campus
               })
+             
           }
       ).catch ((e) => {
           this.setState({
@@ -93,13 +103,52 @@ class App extends Component {
   }
 
     //Filtro
-    applyFilter = (campo , value) => {
-          this.state.filters.map( filter => {
-        
-          })
-            
+    toggleFilter = (campo , value) => {
+        let isset ;
+
+        if(value === 'all'){
+          value = ''
+          isset = false
+        }else{
+          isset = true
+        }
+          
+          this.setState( prevState  => ({
+            filters: { ...prevState.filters,
+               [campo] : {
+                isset: isset,
+                query: value
+              }
+            }
+            })
+          )
+          this.applyFilter(campo)  
         }
       
+      applyFilter = (campo) => {
+        const {query, isset} = this.state.filters[campo]
+        this.resetAlunos()
+        if(isset){
+          if(campo === 'ano'){
+            this.setState({
+              alunosShown: this.state.alunosShown.filter(aluno => {
+                if(aluno.id.toString().substr(0,4) === query)
+                  return aluno
+              })
+            });            
+          }else{
+            this.setState({
+              alunosShown: this.state.alunosShown.filter(aluno => aluno[campo].includes(this.state.filters[campo].query))
+            })
+          }
+          return 0
+        }else{
+          
+          return 1
+        }
+          
+      }
+     //Busca   
     searchAluno = (query) => {
     
           if(query === ''){
@@ -123,13 +172,13 @@ class App extends Component {
     }
 
   render() {
-    const {isLoading, alunosShown, cursos, campi, anos} = this.state
+    const {isLoading, alunosShown, cursos, campi, anos, query} = this.state
 
     return (
       <div className="App">
        
         {isLoading? (<Loading/>) : ( <Fragment>
-          <Header applyFilter={this.applyFilter} searchAluno={this.searchAluno} cursos={cursos} campi={campi} anos={anos} />
+          <Header toggleFilter={this.toggleFilter} searchAluno={this.searchAluno} cursos={cursos} campi={campi} anos={anos} query={query}/>
           <List alunos={alunosShown}/>
           <Footer/>
           </Fragment>)}
