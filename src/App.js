@@ -130,7 +130,7 @@ class App extends Component {
         this.resetAlunos()
         if(isset){
           if(campo === 'ano'){
-            if(query.substr(0,4) !== '20'){
+            if(query.substr(0,2) !== '20'){
                 this.setState({
                   alunosShown: this.state.alunosShown.filter(aluno => {
                     if(aluno.id.toString().substr(0,2) === query.substr(2,2))
@@ -140,7 +140,7 @@ class App extends Component {
               }else{
                 this.setState({
                   alunosShown: this.state.alunosShown.filter(aluno => {
-                    if(aluno.id.toString().substr(0,4) === query)
+                    if(aluno.id.toString().substr(0,4) === query.substr(0,4))
                       return aluno
                   })
                 });
