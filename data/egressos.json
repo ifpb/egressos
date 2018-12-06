@@ -1427,10 +1427,15 @@
     "nomeSimples": "Kássio Oliveira",
     "nome": "Kássio Kiarelly Soares de Oliveira",
     "email": "kassiokiarelly@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/kassiokiarelly/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
+    "avatar": "20092370351.jpg",
+    "linkedin": "https://www.linkedin.com/in/kassiokiarelly/",
+    "github": "https://github.com/kassiokiarelly",
+    "facebook": "https://www.facebook.com/kassiokiarelly",
+    "twitter": "https://www.twitter.com/kassiokiarelly/",
+    "instagram": "https://www.instagram.com/kassiokiarelly/"
   },
   {
     "id": "20112370386",
@@ -2627,20 +2632,5 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
-  },  
-  { 
-    "id": 20092370351,
-    "nomeSimples": "Kássio Oliveira",
-    "nome": "Kássio Kiarelly Soares de Oliveira",
-    "email": "kassiokiarelly@gmail.com",
-    "avatar": "20092370351.jpg",
-    "curso": "cstsi",
-    "campus": "ifpb-jp",
-    "egresso": true,
-    "linkedin": "https://www.linkedin.com/in/kassiokiarelly/",
-    "github": "https://github.com/kassiokiarelly",
-    "facebook": "https://www.facebook.com/kassiokiarelly",
-    "twitter": "https://www.twitter.com/kassiokiarelly/",
-    "instagram": "https://www.instagram.com/kassiokiarelly/"
   }
 ]
