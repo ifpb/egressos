@@ -1,0 +1,288 @@
+$red: #BC412B;
+$orange: #DC602E;
+$green: #06A77D;
+$yellow: #E5D352;
+* {
+    margin: 0;
+    box-sizing: border-box;
+  }
+  //CONTEUDO
+.App{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.list{
+    display: flex;
+    flex:1;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    width: 100%;
+    max-width: 1600px;
+    padding: 3rem 0;
+    margin: 0 auto;
+}
+
+//CARDS
+.egresso{
+    max-width: 300px;
+    max-height: 300px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 2rem 1rem;
+    position: relative;
+    transition: 0.4s all ease-in-out;
+    .box{
+        width: 100%;
+        height: 100%;
+    }
+    .front{
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        display: flex;
+        z-index: 900;
+        transform: rotateX(0deg);
+        transform-style: preserve-3d;
+        backface-visibility: hidden;
+        transition: all .4s ease-in-out;
+        figure{
+            display: flex;
+            margin: 0;
+            opacity: .4;
+            width: 100%;
+            height: 100%;
+            img{
+                width: 100%;
+                height: 100%;
+            }
+        }
+        .name{
+            position: absolute;
+            bottom: 0px;
+            width: 100%;
+            padding: 1rem 0;
+            transition: 0.4s all ease-in-out;
+            background: none;
+            box-shadow: none;
+            h2{
+                margin:0;
+                width: 100%;
+                text-align: center;
+                font-size: 1.3rem;
+                text-transform: uppercase;
+                font-weight: bold;
+                text-decoration: none;
+                color:#fff;
+            }
+        }
+    }
+    .back{
+        top:0;
+        left: 0;
+        height: 300px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        justify-content: space-between;
+        background: #3f3f37;
+        z-index: 1000;
+        transform: rotateY(-180deg);
+        transform-style: preserve-3d;
+        backface-visibility: hidden;
+        transition: all .4s ease-in-out;
+        .box{
+            height: 100%;
+            width: 280px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        hr{
+            background: #eee;
+        }
+        .links{    
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-evenly;
+            margin: 1rem 1.5rem;
+            .button{
+                color: #eee;
+                font-weight: 200;
+                text-decoration: none;
+                padding: .2rem ;
+                img{
+                    height: 32px;
+                    width: 32px;
+                    transition: .4s all ease-in-out;
+                }
+                &:hover{
+                    img{
+                        transform: scale(1.1)
+                    }
+                }
+            }
+        }
+        .info{
+            color:#eee;
+            h2{
+                font-size: 1.3rem;
+                font-weight: 600;
+                margin-bottom: .3rem;
+            }
+            h4{
+                font-size: 1.1rem;
+                margin-top: .3rem;
+                font-weight: 100;
+                
+            }
+        }
+    }
+}
+.egresso.flip {
+    .front{
+        z-index: 900;
+        transform: rotateY(180deg);
+    }
+    .back{
+        z-index: 1000;
+        transform: rotateX(0deg)
+    }
+}
+.turn-over{
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 2rem;
+    background: none;
+    border: none;
+    padding:0.5 1rem;
+    margin: 0.1rem;
+    color:#fff;
+    &:focus{
+        background: none
+    }
+}
+.egresso:hover{
+    transform: scale(1.2);
+    
+    .front {
+        figure{
+            opacity: .9;
+        }
+            .name{
+            background-color: rgba(20,20,20,0.7);
+            box-shadow: 0 -15px 25px rgba(20,20,20,0.7);
+        }
+    } 
+}
+
+//NAVBAR
+nav{
+    background-color: #3f3f37;
+    .brand-logo{
+        font-weight: 100;
+        letter-spacing: 0.3rem;
+    }
+    .sidenav-trigger{
+    padding: 0 1.8rem;
+    }
+   
+}
+//SIDEBAR 
+.filters{    
+        h4{
+            font-size: 1.15rem;
+            padding: 1rem;
+            background: #ccc;
+            color: #888;
+            font-weight: 600;
+            letter-spacing: .1rem;
+            margin: 0;
+        }
+        .input-field{
+            margin-top: 2rem
+        }
+    } 
+.input-field{    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 .9rem;
+    input[type=text]{
+        margin-bottom: .2rem
+    }
+    label{
+        width: 100%;
+        span{
+            display: flex;
+            align-items: center;
+            width: 100%;
+            i{
+                padding-right: 1rem
+            }
+        }
+    }
+}
+
+
+
+//LOADING
+.loading-screen{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    animation: blink .5s linear infinite;
+    .spinner img{
+        border-radius: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 150px;
+        height: 150px;
+        animation: spin 2s linear infinite;
+    }
+    .text h2{
+        font-size: 2.2rem;
+        font-weight: 200;
+        letter-spacing: 1rem;
+    }
+}
+
+@keyframes blink{
+    0%{
+        opacity: 0.5;
+    }
+    100%{
+        opacity: 0.9;
+    }
+
+}
+@keyframes spin{
+    100%{
+        transform: rotate(360deg)
+    }
+}
+
+//FOOTER
+footer{
+    padding: 1rem;
+    background-color: #333;
+    color: #eee;
+    text-align: center;
+}
