@@ -157,7 +157,7 @@ $yellow: #E5D352;
         transform: rotateY(180deg);
     }
     .back{
-        z-index: 1000;
+        z-index: 910;
         transform: rotateX(0deg)
     }
 }
@@ -192,6 +192,9 @@ $yellow: #E5D352;
 //NAVBAR
 nav{
     background-color: #3f3f37;
+        position: fixed;
+        z-index: 998;
+    
     .brand-logo{
         font-weight: 100;
         letter-spacing: 0.3rem;

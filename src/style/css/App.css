@@ -150,7 +150,7 @@
   transform: rotateY(180deg);
 }
 .egresso.flip .back {
-  z-index: 1000;
+  z-index: 910;
   transform: rotateX(0deg);
 }
 
@@ -182,6 +182,8 @@
 
 nav {
   background-color: #3f3f37;
+  position: fixed;
+  z-index: 998;
 }
 nav .brand-logo {
   font-weight: 100;
