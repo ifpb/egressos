@@ -43,7 +43,7 @@ class Aluno extends Component {
 
                     <button onClick={ () => {this._flipCard()}} className="turn-over"><Icon>more_vert</Icon></button>    
                     <div className="name">
-                        <h2>{aluno.nomeCompacto}</h2>
+                        <h2>{aluno.nomeCompactado}</h2>
                     </div>
                 </div>
             </div>
@@ -52,7 +52,7 @@ class Aluno extends Component {
                 <div className="box">
                     <button onClick={ () => {this._flipCard()}} className="turn-over"><Icon>clear</Icon></button>
                         <div className="info">
-                            <h2>{aluno.nomeCompacto}</h2>
+                            <h2>{aluno.nomeCompactado}</h2>
                             <hr></hr>
                             <div>{cursoName[aluno.curso]}</div>
                             <div> {this._turma(aluno.id)} <Chip>{campiName[aluno.campus]}</Chip></div>
