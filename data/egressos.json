@@ -1242,8 +1242,11 @@
     "id": "20132370420",
     "nomeSimples": "Joerverson Santos",
     "nome": "Joerverson Barbosa Santos",
+    "avatar": "20132370420.jpg",
     "email": "joerverson.santos@gmail.com",
     "linkedin": "https://www.linkedin.com/in/joerverson-santos-6369aa134/",
+    "github": "https://github.com/Joeverson",
+    "lattes": "http://lattes.cnpq.br/3519985082185408",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
