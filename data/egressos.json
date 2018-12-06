@@ -1353,10 +1353,14 @@
     "nomeSimples": "Jozias Júnior",
     "nome": "Jozias Rolim de Araújo Júnior",
     "email": "jozias.rolim@dce.ufpb.br",
-    "linkedin": "https://www.linkedin.com/in/joziasrolim/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "avatar": "20122370427.jpg",
+    "linkedin": "https://www.linkedin.com/in/joziasrolim/",
+    "github": "https://github.com/mocotinha",
+    "facebook": "https://www.facebook.com/jozias.rolim",
+    "lattes": "http://lattes.cnpq.br/9271889009536036"
   },
   {
     "id": "20082370049",
@@ -2414,6 +2418,7 @@
     "nomeSimples": "Thiago Sousa",
     "nome": "Thiago Henrique Jacob Oliveira Sousa",
     "email": "thiago.henrique.jacob@hotmail.com",
+    "linkedin": "https://www.linkedin.com/in/thiago-sousa-9bb6b416/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
