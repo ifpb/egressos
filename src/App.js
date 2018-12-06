@@ -130,12 +130,22 @@ class App extends Component {
         this.resetAlunos()
         if(isset){
           if(campo === 'ano'){
-            this.setState({
-              alunosShown: this.state.alunosShown.filter(aluno => {
-                if(aluno.id.toString().substr(0,4) === query)
-                  return aluno
-              })
-            });            
+            if(query.substr(0,4) !== '20'){
+                this.setState({
+                  alunosShown: this.state.alunosShown.filter(aluno => {
+                    if(aluno.id.toString().substr(0,2) === query.substr(0,2))
+                      return aluno
+                  })
+                });
+              }else{
+                this.setState({
+                  alunosShown: this.state.alunosShown.filter(aluno => {
+                    if(aluno.id.toString().substr(0,4) === query)
+                      return aluno
+                  })
+                });
+              }
+                        
           }else{
             this.setState({
               alunosShown: this.state.alunosShown.filter(aluno => aluno[campo].includes(this.state.filters[campo].query))
