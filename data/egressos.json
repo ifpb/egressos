@@ -784,7 +784,12 @@
     "nomeSimples": "Emerson Raniere",
     "nome": "Emerson Raniere Oliveira Souza",
     "email": "emersonraniere@hotmail.com",
+    "avatar": "20102370111.jpg",
     "linkedin": "https://www.linkedin.com/in/emersonraniere/",
+    "twitter": "https://twitter.com/_EmersonRaniere",
+    "facebook": "https://www.facebook.com/EmersonRaniere",
+    "instagram": "https://www.instagram.com/EmersonRaniere",
+    "github": "https://github.com/EmersonRaniere",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1242,8 +1247,11 @@
     "id": "20132370420",
     "nomeSimples": "Joerverson Santos",
     "nome": "Joerverson Barbosa Santos",
+    "avatar": "20132370420.png",
     "email": "joerverson.santos@gmail.com",
     "linkedin": "https://www.linkedin.com/in/joerverson-santos-6369aa134/",
+    "github": "https://github.com/Joeverson",
+    "lattes": "http://lattes.cnpq.br/3519985082185408",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1253,10 +1261,13 @@
     "nomeSimples": "Joffily Ferreira",
     "nome": "Joffily Ferreira dos Santos",
     "email": "joffilyferreira@gmail.com",
+    "avatar": "20142370040.jpg",
     "linkedin": "https://www.linkedin.com/in/joffily/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "github": "https://github.com/joffilyfe",
+    "twitter": "twitter.com/joffilyfe"
   },
   {
     "id": "042037128",
@@ -1424,10 +1435,15 @@
     "nomeSimples": "Kássio Oliveira",
     "nome": "Kássio Kiarelly Soares de Oliveira",
     "email": "kassiokiarelly@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/kassiokiarelly/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "avatar": "20092370351.jpg",
+    "linkedin": "https://www.linkedin.com/in/kassiokiarelly/",
+    "github": "https://github.com/kassiokiarelly",
+    "facebook": "https://www.facebook.com/kassiokiarelly",
+    "twitter": "https://www.twitter.com/kassiokiarelly/",
+    "instagram": "https://www.instagram.com/kassiokiarelly/"
   },
   {
     "id": "20112370386",
@@ -1540,7 +1556,7 @@
     "nome": "Luiz Henrique Estrela Lopes",
     "email": "luishenriqueestrela@gmail.com",
     "linkedin":
-     "https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/",
+    "https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1680,10 +1696,14 @@
     "nomeSimples": "Marianna Veríssimo",
     "nome": "Marianna Soares Veríssimo",
     "email": "marianna1204@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/mariannave/",
+    "avatar": "20142370201.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/mariannave/",
+    "github": "https://github.com/mariannave",
+    "twitter": "https://www.twitter.com/mariannaveri/",
+    "instagram": "https://www.instagram.com/mariannave/"
   },
   {
     "id": "20092370262",
@@ -1709,7 +1729,7 @@
     "nome": "Matheus Ulysses Dantas Rangel",
     "email": "matheusulysses159@gmail.com",
     "linkedin":
-     "https://www.linkedin.com/in/matheus-ulysses-dantas-rangel-2778114a/",
+    "https://www.linkedin.com/in/matheus-ulysses-dantas-rangel-2778114a/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -2626,7 +2646,7 @@
     "nomeSimples": "RAFAEL MEDEIROS",
     "nome": "RAFAEL FIGUEIRÊDO DE MEDEIROS",
     "email": "rafaelmedeirospb@hotmail.com",
-    "avatar": "201413704.jpg",
+    "avatar": "20141370402.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true,
