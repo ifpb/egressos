@@ -7,7 +7,7 @@ O primeiro passo seria declarar seus dados seria editar o arquivo `data/egressos
 ```json
 [
   { 
-    "id": 20051370420,
+    "id": "20051370420",
     "nomeSimples": "Luiz Carlos Chaves",
     "nome": "Luiz Carlos Rodrigues Chaves",
     "email": "lucachaves@gmail.com",
@@ -20,7 +20,7 @@ O primeiro passo seria declarar seus dados seria editar o arquivo `data/egressos
     "facebook": "https://www.facebook.com/luizcrchaves",
     "lattes": "http://lattes.cnpq.br/7165875430419020",
     "researchgate": "https://www.researchgate.net/profile/Luiz_Rodrigues_Chaves",
-    "twitter": "https://www.instagram.com/luizcrchaves/",
+    "twitter": "http://twitter.com/",
     "instagram": "https://www.instagram.com/luizcrchaves/"
   }
 ]
