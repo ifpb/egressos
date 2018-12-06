@@ -133,7 +133,7 @@ class App extends Component {
             if(query.substr(0,4) !== '20'){
                 this.setState({
                   alunosShown: this.state.alunosShown.filter(aluno => {
-                    if(aluno.id.toString().substr(0,2) === query.substr(0,2))
+                    if(aluno.id.toString().substr(0,2) === query.substr(2,2))
                       return aluno
                   })
                 });
