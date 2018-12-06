@@ -1256,10 +1256,13 @@
     "nomeSimples": "Joffily Ferreira",
     "nome": "Joffily Ferreira dos Santos",
     "email": "joffilyferreira@gmail.com",
+    "avatar": "20142370040.jpg",
     "linkedin": "https://www.linkedin.com/in/joffily/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "github": "https://github.com/joffilyfe",
+    "twitter": "twitter.com/joffilyfe"
   },
   {
     "id": "042037128",
