@@ -122,6 +122,7 @@ class App extends Component {
             }
             })
           )
+          
           this.applyFilter(campo)  
         }
       
@@ -171,7 +172,7 @@ class App extends Component {
             this.setState({
               query : query,
               alunosShown: this.state.alunosShown.filter( aluno => {
-                    if(aluno.nomeSimples.toUpperCase().includes(query.toUpperCase())){
+                    if(aluno.nomeCompactado.toUpperCase().includes(query.toUpperCase())){
                       return aluno
                     }else if(aluno.nome.toUpperCase().includes(query.toUpperCase())) {
                       return aluno
