@@ -1540,7 +1540,7 @@
     "nome": "Luiz Henrique Estrela Lopes",
     "email": "luishenriqueestrela@gmail.com",
     "linkedin":
-     "https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/",
+    "https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1680,10 +1680,14 @@
     "nomeSimples": "Marianna Veríssimo",
     "nome": "Marianna Soares Veríssimo",
     "email": "marianna1204@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/mariannave/",
+    "avatar": "20142370201.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/mariannave/",
+    "github": "https://github.com/mariannave",
+    "twitter": "https://www.twitter.com/mariannaveri/",
+    "instagram": "https://www.instagram.com/mariannave/"
   },
   {
     "id": "20092370262",
@@ -1709,7 +1713,7 @@
     "nome": "Matheus Ulysses Dantas Rangel",
     "email": "matheusulysses159@gmail.com",
     "linkedin":
-     "https://www.linkedin.com/in/matheus-ulysses-dantas-rangel-2778114a/",
+    "https://www.linkedin.com/in/matheus-ulysses-dantas-rangel-2778114a/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
