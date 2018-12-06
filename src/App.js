@@ -48,7 +48,7 @@ class App extends Component {
             let campus = []
 
               data.map(aluno => {
-                if(!ids.includes(aluno.id)){
+                if(!ids.includes(aluno.id) && aluno.egresso){
                   ids.push(aluno.id)
                   alunos.push(aluno)
                   if(aluno.id.toString().substr(0,2) !== '20'){
