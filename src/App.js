@@ -122,20 +122,36 @@ class App extends Component {
             }
             })
           )
-          this.applyFilter(campo)  
+
+            this.resetAlunos()
+
+          this.applyFilter('campus')
+          this.applyFilter('curso')
+          this.applyFilter('ano')
         }
       
       applyFilter = (campo) => {
         const {query, isset} = this.state.filters[campo]
-        this.resetAlunos()
+       
         if(isset){
+          
           if(campo === 'ano'){
-            this.setState({
-              alunosShown: this.state.alunosShown.filter(aluno => {
-                if(aluno.id.toString().substr(0,4) === query)
-                  return aluno
-              })
-            });            
+            if(query.substr(0,2) !== '20'){
+                this.setState({
+                  alunosShown: this.state.alunosShown.filter(aluno => {
+                    if(aluno.id.toString().substr(0,2) === query.substr(2,2))
+                      return aluno
+                  })
+                });
+              }else{
+                this.setState({
+                  alunosShown: this.state.alunosShown.filter(aluno => {
+                    if(aluno.id.toString().substr(0,4) === query.substr(0,4))
+                      return aluno
+                  })
+                });
+              }
+                        
           }else{
             this.setState({
               alunosShown: this.state.alunosShown.filter(aluno => aluno[campo].includes(this.state.filters[campo].query))
@@ -158,16 +174,19 @@ class App extends Component {
             })
             
           }else{
+            this.resetAlunos();
             this.setState({
               query : query,
-              alunosShown: this.state.alunosShown.filter( aluno => {
-                    if(aluno.nomeSimples.toUpperCase().includes(query.toUpperCase())){
-                      return aluno
-                    }else if(aluno.nome.toUpperCase().includes(query.toUpperCase())) {
+              alunosShown: this.state.alunos.filter( aluno => {
+                    if(aluno.nomeCompactado.toUpperCase().includes(query.toUpperCase())){
                       return aluno
                     }
                 })
           })
+
+          this.applyFilter('campus')
+          this.applyFilter('curso')
+          this.applyFilter('ano')
         }
     }
 
