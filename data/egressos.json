@@ -2620,5 +2620,18 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
+  },
+  { 
+    "id": "011025083",
+    "nomeSimples": "Flaviano Flauber",
+    "nome": "Flaviano Flauber de Lira Marinho",
+    "email": "flauberjp@gmail.com",
+    "avatar": "09571013.jpg",
+    "curso": "CST EM TELECOMUNICAÇÕES",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/flauberjp/",
+    "github": "https://github.com/flauberjp",
+    "twitter": "https://www.instagram.com/flauberjp/"
   }
 ]
