@@ -2,12 +2,12 @@
 
 O objetivo deste repositório consiste em exibir os alunos egressos do IFPB. Caso você ainda não esteja neste base, ou se você deseja atualizar alguma informação, basta fazer um Pull Request enviando os seus dados.
 
-O primeiro passo seria declarar seus dados seria editar o arquivo `data/egressos.json` seguindo este formato para cada aluno:
+O primeiro passo seria incluir seus dados editando o arquivo `data/egressos.json` seguindo este formato:
 
 ```json
 [
   { 
-    "id": 20051370420,
+    "id": "20051370420",
     "nomeSimples": "Luiz Carlos Chaves",
     "nome": "Luiz Carlos Rodrigues Chaves",
     "email": "lucachaves@gmail.com",
