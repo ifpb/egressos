@@ -6,7 +6,7 @@ function exibeEgressos(egressos) {
   const egressosContainer = document.querySelector(".egressos")
   const view = egressos
     .filter(e => e.hasOwnProperty("linkedin") && e.hasOwnProperty("egresso"))
-    .sort((a, b) => a.nomeSimples.localeCompare(b.nomeSimples))
+    .sort((a, b) => a.nomeCompactado.localeCompare(b.nomeCompactado))
     .map(e => mountCard(e))
     .join('')
     
@@ -43,7 +43,7 @@ function mountCard(person) {
 
   const card = `<div class="egresso">
     <figure>
-      <img src="img/egressos/${person.hasOwnProperty("avatar") ? person.avatar : 'placeholder.jpg'}" alt="${person.nomeSimples}">
+      <img src="img/egressos/${person.hasOwnProperty("avatar") ? person.avatar : 'placeholder.jpg'}" alt="${person.nomeCompactado}">
     </figure>
     <div class="icons">
         ${linkedin + github + facebook + instagram + twitter}
@@ -51,7 +51,7 @@ function mountCard(person) {
     <div class="info">
     </div>
     <div class="name">
-      <h2>${person.nomeSimples}</h2>
+      <h2>${person.nomeCompactado}</h2>
     </div>
   </div>
   `
