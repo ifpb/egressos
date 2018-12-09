@@ -155,10 +155,13 @@
     "nomeCompactado": "Ana Paula Vale",
     "nome": "Ana Paula de Lucena Vale",
     "email": "apvalefin@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/anapaulavale/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/anapaulavale/",
+    "github": "https://github.com/apvale",
+    "twitter": "http://twitter.com/apvale",
+    "instagram": "https://www.instagram.com/aninhalvale/"
   },
   {
     "id": "20132370403",
@@ -1120,7 +1123,7 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
-  }, 
+  },
   {
     "id": "20062370140",
     "nomeCompactado": "Ivandro Claudino",
@@ -1200,8 +1203,7 @@
     "id": "20131370060",
     "nomeCompactado": "João Paulo Leite",
     "nome": "João Paulo da Silva Leite",
-    "linkedin":
-     "https://www.linkedin.com/in/joão-paulo-da-silva-leite-522816107/",
+    "linkedin": "https://www.linkedin.com/in/joão-paulo-da-silva-leite-522816107/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1386,7 +1388,8 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
-  }, {
+  },
+  {
     "id": "031037025",
     "nomeCompactado": "Juan Damasceno",
     "nome": "Juan di Carlo Damasceno",
@@ -1399,8 +1402,7 @@
     "id": "20101370282",
     "nomeCompactado": "Julio César Gomes",
     "nome": "Julio César da Silva Gomes",
-    "linkedin":
-     "https://www.linkedin.com/in/julio-césar-da-silva-gomes-594a80107/",
+    "linkedin": "https://www.linkedin.com/in/julio-césar-da-silva-gomes-594a80107/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1548,8 +1550,7 @@
     "nomeCompactado": "Luiz Henrique Lopes",
     "nome": "Luiz Henrique Estrela Lopes",
     "email": "luishenriqueestrela@gmail.com",
-    "linkedin":
-    "https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/",
+    "linkedin": "https://www.linkedin.com/in/luiz-henrique-estrela-lopes-a13ba323/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1721,8 +1722,7 @@
     "nomeCompactado": "Matheus Rangel",
     "nome": "Matheus Ulysses Dantas Rangel",
     "email": "matheusulysses159@gmail.com",
-    "linkedin":
-    "https://www.linkedin.com/in/matheus-ulysses-dantas-rangel-2778114a/",
+    "linkedin": "https://www.linkedin.com/in/matheus-ulysses-dantas-rangel-2778114a/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -1840,10 +1840,12 @@
     "id": "20111370269",
     "nomeCompactado": "Nelson Fernandes",
     "nome": "Nelson Henrique Dantas Fernandes",
-    "linkedin": "https://www.linkedin.com/in/nersoh/",
+    "email": "nelsonhenrique2611@gmail.com",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/nersoh/",
+    "github": "https://github.com/nersoh/"
   },
   {
     "id": "20061370333",
@@ -2210,7 +2212,7 @@
     "campus": "ifpb-jp",
     "egresso": true
   },
-  { 
+  {
     "id": "20011013081",
     "nomeCompactado": "Rimenes Ribeiro",
     "nome": "Rimenes Farias Ribeiro",
@@ -2566,7 +2568,7 @@
     "nome": "Washington Bruno Rodrigues Cavalcante",
     "email": "washingtonbruno@msn.com",
     "linkedin": "https://www.linkedin.com/in/washington-bruno-47009377/",
-    "avatar":"20141370429.jpg",
+    "avatar": "20141370429.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "github": "https://github.com/xinton",
@@ -2579,7 +2581,7 @@
     "id": "20131370159",
     "nomeCompactado": "Wender Mariano",
     "nome": "Wender Mariano Laurentino",
-    "avatar":"20131370159.jpg",
+    "avatar": "20131370159.jpg",
     "email": "wender.mrn@gmail.com",
     "linkedin": "https://www.linkedin.com/in/wender-mrn/",
     "github": "https://github.com/wendermrn",
@@ -2645,7 +2647,7 @@
     "campus": "ifpb-jp",
     "egresso": true
   },
-  { 
+  {
     "id": "011025083",
     "nomeCompactado": "Flaviano Flauber",
     "nome": "Flaviano Flauber de Lira Marinho",
