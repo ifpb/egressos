@@ -1046,16 +1046,6 @@
   },
   {
     "id": "20062370221",
-    "nomeCompactado": "Higor Benício",
-    "nome": "Higor Delgado Leite Benício",
-    "email": "higor_zupo@yahoo.com.br",
-    "linkedin": "https://www.linkedin.com/in/higordelgado/",
-    "curso": "cstsi",
-    "campus": "ifpb-jp",
-    "egresso": true
-  },
-  {
-    "id": "20062370221",
     "nomeCompactado": "Higor Delgado",
     "nome": "Higor Delgado Leite Benicio",
     "email": "higor_zupo@yahoo.com.br",
@@ -1993,7 +1983,6 @@
     "nomeCompactado": "Pedro Victor",
     "nome": "Pedro Victor de Oliveira Lima",
     "email": "pedao86@hotmail.com",
-    "linkedin": "pedao86@hotmail.com",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -2095,7 +2084,6 @@
     "nomeCompactado": "Raphael Alves",
     "nome": "Raphael Medeiros Alves",
     "email": "raphael.medeiros.alves@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/rafael-medeiros-aa9b97133/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
@@ -2666,7 +2654,7 @@
     "curso": "CST EM TELECOMUNICAÇÕES",
     "campus": "ifpb-jp",
     "egresso": true,
-    "linkedin": "https://www.linkedin.com/in/flauberjp/",
+    "linkedin": "https://www.linkedin.com/in/flauber/",
     "github": "https://github.com/flauberjp",
     "twitter": "https://www.instagram.com/flauberjp/"
   }
