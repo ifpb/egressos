@@ -184,8 +184,11 @@
     "id": "20132370284",
     "nomeCompactado": "André Alencar",
     "nome": "André de Alencar Oliveira da Costa",
+    "avatar": "20132370284.jpg",
     "email": "andrealencar@outlook.com.br",
     "linkedin": "https://www.linkedin.com/in/andreealencar/",
+    "github": "https://github.com/andreealencar",
+    "twitter": "https://twitter.com/andreealencar",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
