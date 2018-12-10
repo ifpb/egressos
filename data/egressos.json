@@ -1723,10 +1723,14 @@
     "nomeCompactado": "Matheus Rangel",
     "nome": "Matheus Ulysses Dantas Rangel",
     "email": "matheusulysses159@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/matheus-ulysses-dantas-rangel-2778114a/",
+    "avatar": "20102370286.jpg",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/matheusrangel/",
+    "github": "https://github.com/matheusrangel",
+    "facebook": "https://www.facebook.com/matheus.ulysses",
+    "instagram": "https://www.instagram.com/matheusrangel92/"
   },
   {
     "id": "20151370049",
