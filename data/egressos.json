@@ -2399,13 +2399,16 @@
   },
   {
     "id": "20101370401",
-    "nomeCompactado": "Thais Noronha",
+    "nomeCompactado": "Thais Correia",
     "nome": "Thais Noronha de Medeiros Correia",
     "email": "tnmcorreia@gmail.com",
     "linkedin": "https://www.linkedin.com/in/thaiscorreia/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
-    "egresso": true
+    "egresso": true,
+    "github": "https://github.com/ThaisCorreia",
+    "instagram": "https://www.instagram.com/tnmcorreia/",
+    "avatar": "20101370401.jpg"
   },
   {
     "id": "20062370167",
