@@ -885,6 +885,19 @@
     "egresso": true
   },
   {
+    "id": "011025083",
+    "nomeCompactado": "Flaviano Flauber",
+    "nome": "Flaviano Flauber de Lira Marinho",
+    "email": "flauberjp@gmail.com",
+    "avatar": "09571013.jpg",
+    "curso": "CST EM TELECOMUNICAÇÕES",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/flauber/",
+    "github": "https://github.com/flauberjp",
+    "twitter": "https://www.instagram.com/flauberjp/"
+  },
+  {
     "id": "042037135",
     "nomeCompactado": "Francisco Alencar",
     "nome": "Francisco Dellano Leite Alencar",
@@ -2651,24 +2664,12 @@
   },
   {
     "id": "20062370035",
-    "nomeCompactado": "Zan Lee",
+    "nomeCompactado": "Jie Lee",
     "nome": "Zan Jie Lee",
     "email": "jiezinho@gmail",
+    "linkedin": "https://www.linkedin.com/in/zanjielee/",
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
-  },
-  {
-    "id": "011025083",
-    "nomeCompactado": "Flaviano Flauber",
-    "nome": "Flaviano Flauber de Lira Marinho",
-    "email": "flauberjp@gmail.com",
-    "avatar": "09571013.jpg",
-    "curso": "CST EM TELECOMUNICAÇÕES",
-    "campus": "ifpb-jp",
-    "egresso": true,
-    "linkedin": "https://www.linkedin.com/in/flauber/",
-    "github": "https://github.com/flauberjp",
-    "twitter": "https://www.instagram.com/flauberjp/"
   }
 ]
