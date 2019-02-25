@@ -242,6 +242,17 @@
     "egresso": true
   },
   {
+    "id": "20122380163",
+    "nomeCompactado": "Antônio Muniz",
+    "nome": "Antônio Muniz de Andrade Neto",
+    "email": "antoniomunizdeandrade@gmail.com",
+    "avatar": "20122380163.jpg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/antonio-muniz-79783a78"
+  },
+  {
     "id": "042037147",
     "nomeCompactado": "Antonio Loureiro",
     "nome": "Antonio Loureiro Cavalcanti Filho",
@@ -354,6 +365,17 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
+  },
+  {
+    "id": "20092380187",
+    "nomeCompactado": "Bruno Molino",
+    "nome": "Bruno Esturba Molino",
+    "email": "brunoesturba@yahoo.com.br",
+    "avatar": "20092380187.jpeg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/bruno-esturba-molino-21845397/"
   },
   {
     "id": 20111370307,
@@ -727,6 +749,17 @@
     "egresso": true
   },
   {
+    "id": "20101380121",
+    "nomeCompactado": "Eduardo Fox",
+    "nome": "Eduardo Farias Brinds-Ley Fox",
+    "email": "eduardobfox@gmail.com",
+    "avatar": "20101380121.png",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "lattes": "http://lattes.cnpq.br/1754631372530799"
+  },
+  {
     "id": "042037138",
     "nomeCompactado": "Elias Júnior",
     "nome": "Elias Pereira Gomes Júnior",
@@ -758,6 +791,16 @@
     "campus": "ifpb-jp",
     "egresso": true
   },
+  {
+    "id": "20151380265",
+    "nomeCompactado": "Erick Câmara",
+    "nome": "Erick Câmara dos Santos",
+    "email": "erickcamara3@gmail.com",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  
   {
     "id": "042037165",
     "nomeCompactado": "Elaine Araújo",
@@ -915,6 +958,18 @@
     "egresso": true
   },
   {
+    "id": "20132380212",
+    "nomeCompactado": "Gabriel da Silva",
+    "nome": "Gabriel da Silva Cavalcante",
+    "email": "gabrielsc.adm@gmail.com",
+    "avatar": "20132380212.jpg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/gcavalcante/",
+    "facebook": "https://www.facebook.com/gabriel.cavalcante.adm"
+  },
+  {
     "id": "20051370012",
     "nomeCompactado": "Gabriela Souza",
     "nome": "Gabriela Guedes Souza",
@@ -1023,6 +1078,20 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
+  },
+  {
+    "id": "20092380489",
+    "nomeCompactado": "Helder Nogueira",
+    "nome": "Helder Nogueira de Moura",
+    "email": "helder.hnm@gmail.com",
+    "avatar": "20092380489.jpeg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/helder-nogueira-065076b7/",
+    "facebook": "https://www.facebook.com/helder.hnm",
+    "lattes": "http://lattes.cnpq.br/6220327298119813",
+    "twitter": "https://twitter.com/heldernm"
   },
   {
     "id": "20051370241",
@@ -1470,6 +1539,41 @@
     "instagram": "https://www.instagram.com/laerciosb/"
   },
   {
+    "id": "20122380228",
+    "nomeCompactado": "Laís Nascimento",
+    "nome": "Laís Maria do Bomfim Nascimento",
+    "email": "laysbomfim@gmail.com",
+    "avatar": "20122380228.jpg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "lattes": "http://lattes.cnpq.br/4820664207133370"
+  },
+  {
+    "id": "20051380328",
+    "nomeCompactado": "Leandro Almeida",
+    "nome": "Leandro Cavalcanti de Almeida",
+    "email": "lcavalcanti.almeida@gmail.com",
+    "avatar": "20051380328.jpeg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/leandro-almeida-2601a611",
+    "lattes": "http://lattes.cnpq.br/9455233418767749",
+    "twitter": "https://twitter.com/leandrocalmeida/"
+  },
+  {
+    "id": "20102380320",
+    "nomeCompactado": "Leandro Medeiros",
+    "nome": "Leandro Medeiros Silva",
+    "email": "leandro.m@hostdime.com.br",
+    "avatar": "20102380320.jpeg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/leandro-medeiros-736130b4/"
+  },
+  {
     "id": "20051370268",
     "nomeCompactado": "Leonardo Melo",
     "nome": "Leonardo Oliveira de Melo",
@@ -1782,6 +1886,28 @@
     "egresso": true
   },
   {
+    "id": "20132380395",
+    "nomeCompactado": "Marcus Carvalho",
+    "nome": "Marcus Paulo Pereira Lima de Carvalho",
+    "email": "marcustkd1@gmail.com",
+    "avatar": "20132380395.jpg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/marcuscarvalho07/",
+    "facebook": "https://www.facebook.com/Marcustkd"
+  },
+  {
+    "id": "20062380294",
+    "nomeCompactado": "Marcos Cesar",
+    "nome": "Marcos Cesar Holanda dos Santos",
+    "email": "marcoscefetpb@gmail.com",
+    "avatar": "20062380294.jpg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "20071370379",
     "nomeCompactado": "Michel Risucci",
     "nome": "Michel Alessandro Brasil Risucci de França",
@@ -1929,6 +2055,19 @@
     "egresso": true
   },
   {
+    "id": "20152380064",
+    "nomeCompactado": "Pablo Bezerra Guedes",
+    "nome": "Pablo Bezerra Guedes Lins de Albuquerque",
+    "email": "pablocstredes@gmail.com",
+    "avatar": "20152380064.jpg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/pablo-albuquerque-83b4a6172",
+    "github": "https://github.com/Pablocst",
+    "facebook": "https://m.facebook.com/pablo.bezerra.9"
+  },
+  {
     "id": "20071370395",
     "nomeCompactado": "Pablo Cunha",
     "nome": "Pablo Cunha Dantas",
@@ -1978,6 +2117,32 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
+  },
+  {
+    "id": "20102380362",
+    "nomeCompactado": "Paulo Vítor",
+    "nome": "Paulo Vítor Nascimento de Sousa",
+    "email": "paulovitor.93@hotmail.com",
+    "avatar": "20102380362.jpg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "facebook": "https://www.facebook.com/paulo.vitor.104855",
+    "lattes": "http://lattes.cnpq.br/0028371280741058",
+    "instagram": "https://www.instagram.com/paulovitor93/"
+  },
+  {
+    "id": "20051380417",
+    "nomeCompactado": "Pedro Filho",
+    "nome": "Pedro Batista de Carvalho Filho",
+    "email": "pedro.filho.jp@gmail.com",
+    "avatar": "20051380417.jpg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/pedro-batista-de-carvalho-filho-92b95768/",
+    "facebook": "https://www.facebook.com/pedro.carvalho.376258",
+    "lattes": "http://lattes.cnpq.br/7615261737731918"
   },
   {
     "id": "20141370372",
@@ -2316,6 +2481,18 @@
     "egresso": true
   },
   {
+    "id": "20111380353",
+    "nomeCompactado": "Romáryo Ricardo",
+    "nome": "Romáryo de Lima Ricardo",
+    "email": "romaryoricardo@gmail.com",
+    "avatar": "20111380353.jpeg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/romaryo-ricardo-99363931/",
+    "facebook": "https://www.facebook.com/romaryoricardo"
+  },
+  {
     "id": "20081370282",
     "nomeCompactado": "Romero Medeiros",
     "nome": "Romero Meireles Fernandes de Medeiros",
@@ -2401,6 +2578,20 @@
     "egresso": true
   },
   {
+    "id": "20141380351",
+    "nomeCompactado": "Suelando Alves",
+    "nome": "Suelando Alves de Araújo",
+    "email": "suelando@live.com",
+    "avatar": "20141380351.jpg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/suelando-alves-18224a74",
+    "github": "https://github.com/suelando",
+    "facebook": "https://www.facebook.com/suelando",
+    "lattes": "http://lattes.cnpq.br/0300067483627497"
+  },
+  {
     "id": "20072370739",
     "nomeCompactado": "Tália Trigueiro",
     "nome": "Tália Bernardino Trigueiro de Almeida",
@@ -2409,6 +2600,20 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
+  },
+  {
+    "id": "20092380063",
+    "nomeCompactado": "Thamayron Alves",
+    "nome": "Thamayron Alves Souza",
+    "email": "thamayron@gmail.com",
+    "avatar": "20092380063.jpg",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "www.linkedin.com/in/thamayron-alves",
+    "github": "https://github.com/thamayron",
+    "facebook": "https://www.facebook.com/thamayron.alves",
+    "twitter": "https://twitter.com/thamayron/"
   },
   {
     "id": "20101370401",
