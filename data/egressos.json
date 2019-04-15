@@ -928,6 +928,19 @@
     "egresso": true
   },
   {
+    "id": "20071610175",
+    "nomeCompactado": "Flavio Ribeiro",
+    "nome": "Flavio Ribeiro Nogueira Barbosa",
+    "email": "email@flavioribeiro.com",
+    "curso": "Engenharia Eletrica",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/flavioribeiro/",
+    "github": "https://github.com/flavioribeiro",
+    "twitter": "https://twitter.com/flavioribeiro",
+    "instagram": "https://twitter.com/flavioribeironb"
+  },
+  {
     "id": "011025083",
     "nomeCompactado": "Flaviano Flauber",
     "nome": "Flaviano Flauber de Lira Marinho",
