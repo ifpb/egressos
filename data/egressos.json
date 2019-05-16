@@ -1,5 +1,15 @@
 [
   {
+    "id": "20102380273",
+    "nomeCompactado": "José Amarildo",
+    "nome": "José Amarildo de Lima Filho",
+    "email": "joseamaril@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/jose-amarildo/",
+    "curso": "cstrc",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
     "id": "20062370361",
     "nomeCompactado": "Aline Donato",
     "nome": "Aline Donato Carreiro",
