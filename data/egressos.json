@@ -1,15 +1,5 @@
 [
   {
-    "id": "20102380273",
-    "nomeCompactado": "José Amarildo",
-    "nome": "José Amarildo de Lima Filho",
-    "email": "joseamaril@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/jose-amarildo/",
-    "curso": "cstrc",
-    "campus": "ifpb-jp",
-    "egresso": true
-  },
-  {
     "id": "20062370361",
     "nomeCompactado": "Aline Donato",
     "nome": "Aline Donato Carreiro",
@@ -810,7 +800,7 @@
     "campus": "ifpb-jp",
     "egresso": true
   },
-  
+
   {
     "id": "042037165",
     "nomeCompactado": "Elaine Araújo",
@@ -1441,6 +1431,16 @@
     "nomeCompactado": "Jose Wendell Silva",
     "nome": "Jose Wendell de Morais Silva",
     "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true
+  },
+  {
+    "id": "20102380273",
+    "nomeCompactado": "José Amarildo",
+    "nome": "José Amarildo de Lima Filho",
+    "email": "joseamaril@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/jose-amarildo/",
+    "curso": "cstrc",
     "campus": "ifpb-jp",
     "egresso": true
   },
