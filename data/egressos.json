@@ -2624,6 +2624,19 @@
     "campus": "ifpb-jp",
     "egresso": true
   },
+  { 
+    "id": "20152370077",
+    "nomeCompactado": "Talitha Medeiros",
+    "nome": "Talitha Alessandra Medeiros Ribeiro",
+    "email": "medeirostalitha@gmail.com",
+    "avatar": "20152370077.jpg",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/talithamedeirosribeiro/",
+    "github": "https://github.com/talithamedeiros",
+    "instagram": "https://www.instagram.com/talithamedeiros/"
+  },
   {
     "id": "20092380063",
     "nomeCompactado": "Thamayron Alves",
