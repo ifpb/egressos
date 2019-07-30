@@ -1035,6 +1035,18 @@
     "campus": "ifpb-jp",
     "egresso": true
   },
+   { 
+    "id": "20151370073",
+    "nomeCompactado": "Gilberto Neto",
+    "nome": "Gilberto Firmino de Souza Neto",
+    "email": "gilbertofsneto@gmail.com",
+    "avatar": "20151370073.jpg",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/gilberto-neto-331667174/",
+    "github": "https://github.com/GilbertoNeto"
+  },
   {
     "id": "20052370105",
     "nomeCompactado": "Gilvan Marinho",
