@@ -1709,6 +1709,21 @@
     "campus": "ifpb-jp",
     "egresso": true
   },
+  { 
+    "id": "20151370340",
+    "nomeCompactado": "Manoel Angelo",
+    "nome": "Manoel Angelo Da Silva Neto",
+    "email": "angelo.manoel.neto@gmail.com",
+    "avatar": "20151370340.jpg",
+    "curso": "cstsi",
+    "campus": "ifpb-jp",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/manoelangelo/",
+    "github": "https://github.com/manoelangelo",
+    "facebook": "https://www.facebook.com/manoelangeloneto",
+    "twitter": "http://twitter.com/managelo",
+    "instagram": "https://www.instagram.com/manoelangelo/"
+  },
   {
     "id": "201312010134",
     "nomeCompactado": "Manoel Dijalma",
