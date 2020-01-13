@@ -32,6 +32,12 @@ h1 {
   }
 }
 
+@media (min-width: 1920px) {
+  .egressos {
+    grid-template-columns: repeat(4, 300px);
+  }
+}
+
 .egresso {
   position: relative;
   display: flex;
