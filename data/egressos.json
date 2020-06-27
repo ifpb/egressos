@@ -1648,6 +1648,20 @@
     "campus": "ifpb-jp",
     "egresso": true
   },
+  { 
+    "id": "201612010210",
+    "nomeCompactado": "Lucas Duete",
+    "nome": "Lucas Monteiro Duete",
+    "email": "lm.duete@gmail.com",
+    "avatar": "201612010210.jpg",
+    "curso": "ads",
+    "campus": "ifpb-cz",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/lucasduete/",
+    "github": "https://github.com/lucasduete",
+    "twitter": "http://twitter.com/lucasduete",
+    "instagram": "https://www.instagram.com/lucasduete/"
+  },
   {
     "id": "041037101",
     "nomeCompactado": "Lucas Souza",
