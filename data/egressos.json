@@ -253,6 +253,15 @@
     "linkedin": "https://www.linkedin.com/in/antonio-muniz-79783a78"
   },
   {
+    "id": "201911250024",
+    "nomeCompactado": "Jonatas Duarte",
+    "nome": "Jonatas da Silva Duarte",
+    "email": "jonatasilvaduarte@gmail.com",
+    "curso": "engcomp",
+    "campus": "ifpb-cg",
+    "egresso": true
+  },
+  {
     "id": "042037147",
     "nomeCompactado": "Antonio Loureiro",
     "nome": "Antonio Loureiro Cavalcanti Filho",
