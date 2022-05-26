@@ -707,6 +707,23 @@
     "egresso": true
   },
   {
+    "id": "20082201026",
+    "nomeCompactado": "Diogo Moreira",
+    "nome": "Diogo Dantas Moreira",
+    "email": "diogo.dmoreira@gmail.com",
+    "avatar": "20082201026.jpeg",
+    "curso": "ads",
+    "campus": "ifpb-cz",
+    "egresso": true,
+    "linkedin": "https://www.linkedin.com/in/diogodmoreira/",
+    "github": "https://github.com/diogomoreira",
+    "twitter": "http://twitter.com/diogodmoreira",
+    "instagram": "https://www.instagram.com/diogo.dmoreira/",
+    "facebook": "https://www.facebook.com/diogodmoreira/",
+    "lattes": "http://lattes.cnpq.br/2745996619940977",
+    "researchgate": "https://www.researchgate.net/profile/Diogo_Moreira4"
+  },
+  {
     "id": "20082370235",
     "nomeCompactado": "Diogo Alves",
     "nome": "Diogo de Alcantara Rodrigues Alves",
