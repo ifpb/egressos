@@ -2982,5 +2982,17 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
-  }
+  },
+  {
+    "id": "20101002928",
+    "nomeSimples": "Andrews",
+    "nome": "Felipe Andrew",
+    "avatar":"20101002928.jpg",
+    "email": "ferulip@gmail.com",
+    "github": "https://github.com/andrews-felipe",
+    "linkedin": "https://www.linkedin.com/in/fandrew/",
+    "curso": "cstsi",
+    "campus": "ifpb-cg",
+    "egresso": true
+  },
 ]
