@@ -2982,5 +2982,16 @@
     "curso": "cstsi",
     "campus": "ifpb-jp",
     "egresso": true
+  },
+  {
+    "id": "201619600018",
+    "nomeCompactado": "Arthur Mauricio",
+    "nome": "Arthur Mauricio Thomaz Soares",
+    "email": "arthur.mts@gmail.com",
+    "linkedin": "www.linkedin.com/in/arthur-mts",
+    "curso": "cstsi",
+    "campus": "ifpb-esp",
+    "egresso": true,
+    "stackoverflow": "https://pt.stackoverflow.com/users/91527/arthur-m"
   }
 ]
